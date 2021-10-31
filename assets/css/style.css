@@ -48,6 +48,11 @@ body {
     border-bottom: none;
 }
 
+#main-menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
 .current {
     color: #fff;
     background-color: #C2B9B0;
