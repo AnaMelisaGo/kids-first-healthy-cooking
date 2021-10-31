@@ -81,7 +81,7 @@ h1, h2 {
 
 #heading {
     position: absolute;
-    background: rgba(255, 181, 181, .85);
+    background: rgba(255, 181, 181, 0.85);
     bottom: 450px;
     left: 55px;
     
@@ -110,4 +110,75 @@ h1, h2 {
     font-family: Raleway, sans-serif;
     color: #fff;
     padding: 25px;
+}
+
+/* Style benefit of cooking with kids */
+#benefit-container {
+    margin: 40px 10%;
+    height: 1100px;
+}
+
+#benefit-heading {
+    margin: 30px 30px 50px;
+}
+
+#benefit-heading h2 {
+    text-align: center;
+    font-size: 40px;
+    padding: 20px;
+}
+
+#benefit-heading p span {
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+
+.benefit-section {
+    margin: 10px 30px;
+    height: 300px;
+}
+
+.benefit-text {
+    width: 40%;
+    padding: 20px;
+}
+
+.benefit-left {
+    float: left;
+    margin-left: 10%;
+    border-left: 3px solid #ffb5b5;
+}
+
+.benefit-right {
+    float: right;
+    margin-right: 10%;
+    border-right: 3px solid #ffb5b5;
+}
+
+br {
+    height: 26px;
+}
+
+.benefit-image {
+    float: right;
+    margin-right: 15%;
+    margin-top: 15px;
+}
+
+#top-image {
+    height: 240px;
+    width: 210px;
+}
+
+#middle-image {
+    float: left;
+    height: 240px;
+    width: 260px;
+    margin-left: 15%;
+    margin-top: 15px;
+}
+
+#under-image {
+    height: 200px;
+    width: 210px;
 }
