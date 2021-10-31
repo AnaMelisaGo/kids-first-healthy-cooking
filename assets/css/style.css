@@ -182,3 +182,35 @@ br {
     height: 200px;
     width: 210px;
 }
+
+/* Online cooking button */
+#online-cooking {
+    clear: both;
+    height: 100px;
+    width: 100%;
+    position: relative;
+}
+#online-cooking button {
+    font-size: 25px;
+    font-weight: 900;
+    font-family: Raleway, sans-serif;
+    background-color: #C2B9B0;
+    border: 1px solid #7E685A;
+    border-radius: 30px;
+    color: #7E685A;
+    height: 60px;
+    width: 500px;
+    position: absolute;
+    left: 30%;
+}
+
+#online-cooking button a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#online-cooking button:hover {
+    background: #7E685A;
+    color: #F3F0E4;
+}
+
