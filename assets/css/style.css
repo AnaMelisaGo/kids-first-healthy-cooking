@@ -241,10 +241,9 @@ footer {
 
 .social-media li a {
     font-size: 40px;
-    color: #7E685A;
-    /* color: #9ecc54; */
+    color: #9ecc54;
 }
 
 .social-media li a:hover {
-    color: #9ecc54;
+    color: #7E685A;
 }
