@@ -247,3 +247,9 @@ footer {
 .social-media li a:hover {
     color: #7E685A;
 }
+
+/* Cooking classes */
+#cooking {
+    clear: both;
+    height: 500px;
+}
