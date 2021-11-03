@@ -36,13 +36,13 @@ h1, h2 {
 #main-menu {
     position: absolute;
     top: 40px;
-    left: 35%;
+    left: 50%;
 }
 
 #main-menu li {
     float: left;
     list-style-type: none;
-    margin: 0 30px;
+    margin: 0 5px 0 100px;
     font-size: 20px;
     color: #7E685A;
     padding: 17px;
@@ -67,19 +67,15 @@ h1, h2 {
 }
 
 /* Main image */
-#image-container {
-    width: 100%;
-    height: 600px;
-    position: relative;
-}
-
 #hero-image {
     background: url("../images/kids-healthy-cooking.jpg") no-repeat center center;
     width: 100%;
     height: 600px;
+    position: relative;
+    clear: both;
 }
 
-#heading h1 {
+.heading {
     font-size: 75px;
     font-weight: 900px;
     color: #fff;
@@ -87,9 +83,9 @@ h1, h2 {
     text-transform: uppercase;
     letter-spacing: 3px;
     clear: both;
-    position: relative;
+    position: absolute;
     background: rgba(255, 181, 181, 0.85);
-    bottom: 550px;
+    top: 50px;
     left: 55px;
     width: 70%;
 }
@@ -111,10 +107,9 @@ h1, h2 {
 }
 
 /* Style benefit of cooking with kids */
-#benefit-container {
+.benefit-container {
     margin: 40px 10%;
-    height: 1150px;
-    background: #F3F0E4;
+    /* background: #F3F0E4; */
 }
 
 #benefit-heading {
@@ -217,23 +212,25 @@ br {
 
 /* Footer */
 footer {
-    height: 60px;
     background: radial-gradient(circle at 10% 20%, rgb(248, 213, 214) 0%, rgb(218, 216, 192) 90%);
-    position: relative;
+    display: flex;
 }
 
 .social-media p {
-    float: left;
     color: #7E685A;
     font-size: 15px;
     padding: 35px 10px 0;
     width: 40%;
 }
 
+.social-media ul {
+    width: 100%;
+    display: flex;
+}
+
 .social-media li {
-    clear: both;
-    display: inline-block;
-    margin-right: 150px;    
+    display: inline;
+    margin: 0 auto;    
     padding: 6px;
 }
 
@@ -247,6 +244,9 @@ footer {
 }
 
 /* Cooking classes */
+#kids-cooking {
+    position: relative;
+}
 #kids-cooking h2 {
     font-size: 60px;
     font-weight: 900px;
@@ -299,7 +299,6 @@ footer {
 
 #cooking-time ~ div {
     width: 90%;
-    height: 200px;
     margin: 20px auto;
     padding: 20px 0;
     clear: both;
@@ -375,7 +374,7 @@ footer {
 @media screen and (max-width: 1300px) {
     #main-menu {
         position: absolute;
-        left: 25%;
+        left: 50%;
     }
     #main-menu li {
         margin: 0 25px;
@@ -392,15 +391,10 @@ footer {
 
 /* For devices lesser than 1000px */
 @media screen and (max-width: 1000px) {
-    #kids-first-logo {
-        width: 150px;
-        height: 50px;
-        padding: 10px 10px 0 25px;
-    }
     #main-menu {
         position: absolute;
         top: 55px;
-        left: 0;
+        left: 30%;
     }
     #main-menu li {
         font-size: 18px;
