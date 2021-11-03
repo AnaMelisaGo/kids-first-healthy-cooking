@@ -36,7 +36,7 @@ h1, h2 {
 #main-menu {
     position: absolute;
     top: 40px;
-    left: 40%;
+    left: 35%;
 }
 
 #main-menu li {
@@ -79,13 +79,15 @@ h1, h2 {
     height: 600px;
 }
 
-#heading {
-    position: absolute;
+/* Main heading */
+/* #heading {
+    clear: both;
+    position: relative;
     background: rgba(255, 181, 181, 0.85);
-    bottom: 450px;
+    bottom: 550px;
     left: 55px;
     
-}
+} */
 
 #heading h1 {
     font-size: 75px;
@@ -94,6 +96,14 @@ h1, h2 {
     padding: 0 25px;
     text-transform: uppercase;
     letter-spacing: 3px;
+
+    clear: both;
+    position: relative;
+    background: rgba(255, 181, 181, 0.85);
+    bottom: 550px;
+    left: 55px;
+    width: 70%;
+    
 }
 
 #head-text {
@@ -369,4 +379,39 @@ footer {
     background: #9ecc54;
     color: #fff;
     cursor: pointer;
+}
+
+
+
+
+
+
+/* RESPONSIVE DESIGN */
+/* For devices lesser than 1200 */
+@media screen and (max-width: 1300px) {
+    #main-menu {
+        position: absolute;
+        left: 25%;
+    }
+    #main-menu li {
+        margin: 0 25px;
+        font-size: 18px;
+        color: #7E685A;
+        padding: 17px;
+    }
+    .current {
+        color: #fff;
+        background-color: #AFD275;
+        border-bottom: 4px solid #AFD275;
+    }
+}
+
+/* For devices lesser than 1000px */
+@media screen and (max-width: 1000px) {
+    #kids-first-logo {
+        width: 150px;
+        height: 50px;
+        padding: 10px 10px 0 25px;
+
+    }
 }
