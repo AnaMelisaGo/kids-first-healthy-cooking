@@ -26,10 +26,10 @@ h1, h2 {
 }
 
 #kids-first-logo {
-    width: 250px;
-    height: 80px;
+    width: 210px;
+    height: 60px;
     float: left;
-    padding: 23px 10px 0 25px;
+    padding: 40px 10px 0 25px;
 }
 
 /* Style navigation */
@@ -79,16 +79,6 @@ h1, h2 {
     height: 600px;
 }
 
-/* Main heading */
-/* #heading {
-    clear: both;
-    position: relative;
-    background: rgba(255, 181, 181, 0.85);
-    bottom: 550px;
-    left: 55px;
-    
-} */
-
 #heading h1 {
     font-size: 75px;
     font-weight: 900px;
@@ -96,14 +86,12 @@ h1, h2 {
     padding: 0 25px;
     text-transform: uppercase;
     letter-spacing: 3px;
-
     clear: both;
     position: relative;
     background: rgba(255, 181, 181, 0.85);
     bottom: 550px;
     left: 55px;
     width: 70%;
-    
 }
 
 #head-text {
@@ -292,31 +280,21 @@ footer {
     margin: 10px 70px;
 }
 
-#tuesday-cooking {
+.tuesday-cooking {
     background-color: #f8d5d6;
 }
 
-#tuesday-cooking:hover {
+/* #tuesday-cooking:hover {
     background-color: #E7717D;
     color: #fff;
-}
+} */
 
-#thursday-cooking {
+.thursday-cooking {
     background-color: #dad8c0;
 }
 
-#thursday-cooking:hover {
-    background-color: #E7717D;
-    color: #fff;
-}
-
-#saturday-cooking {
+.saturday-cooking {
     background-color: #C2B9B0;
-}
-
-#saturday-cooking:hover {
-    background-color: #E7717D;
-    color: #fff;
 }
 
 #cooking-time ~ div {
@@ -325,6 +303,12 @@ footer {
     margin: 20px auto;
     padding: 20px 0;
     clear: both;
+}
+
+.cook-signup {
+    font-weight: 900;
+    text-decoration: none;
+    color: inherit;
 }
 
 /* Sign up form */
@@ -412,6 +396,15 @@ footer {
         width: 150px;
         height: 50px;
         padding: 10px 10px 0 25px;
-
+    }
+    #main-menu {
+        position: absolute;
+        top: 55px;
+        left: 0;
+    }
+    #main-menu li {
+        font-size: 18px;
+        color: #7E685A;
+        padding: 10px;
     }
 }
