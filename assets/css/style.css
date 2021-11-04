@@ -229,9 +229,9 @@ footer {
 }
 
 .social-media li {
-    display: inline;
     margin: 0 auto;    
     padding: 6px;
+    list-style-type: none;
 }
 
 .social-media li a {
@@ -247,7 +247,8 @@ footer {
 #kids-cooking {
     position: relative;
 }
-#kids-cooking h2 {
+
+.cooking-head {
     font-size: 60px;
     font-weight: 900px;
     color: #7E685A;
@@ -304,10 +305,43 @@ footer {
     clear: both;
 }
 
-.cook-signup {
+#cooking-time ~div a {
     font-weight: 900;
     text-decoration: none;
     color: inherit;
+}
+
+/* Kids first corner */
+.cooking-head ~ p {
+    margin-left: 50px;
+padding: 0 15px;
+}
+
+.recipe-tips {
+    background: #F3F0E4;
+    margin: 20px 40px;
+}
+
+.button-container {
+    display: flex;
+    flex-direction: row;
+    padding: 0 0 20px;
+}
+
+.topic-button {
+    width: 200px;
+    height: 200px;
+    margin: 20px 150px;
+    padding: 50px;
+    border: 1px solid black;
+    border-radius: 4px;
+    box-shadow: 9px 9px 10px #cecece;
+    font-size: 15px;
+}
+
+.topic-button a {
+    font-size: 70px;
+    text-decoration: none;
 }
 
 /* Sign up form */
