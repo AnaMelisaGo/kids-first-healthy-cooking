@@ -36,7 +36,7 @@ h1, h2 {
 #main-menu {
     position: absolute;
     top: 40px;
-    left: 50%;
+    left: 30%;
 }
 
 #main-menu li {
@@ -107,9 +107,8 @@ h1, h2 {
 }
 
 /* Style benefit of cooking with kids */
-.benefit-container {
+#benefit-container {
     margin: 40px 10%;
-    /* background: #F3F0E4; */
 }
 
 #benefit-heading {
@@ -285,11 +284,6 @@ footer {
     background-color: #f8d5d6;
 }
 
-/* #tuesday-cooking:hover {
-    background-color: #E7717D;
-    color: #fff;
-} */
-
 .thursday-cooking {
     background-color: #dad8c0;
 }
@@ -311,37 +305,58 @@ footer {
     color: inherit;
 }
 
-/* Kids first corner */
-.cooking-head ~ p {
-    margin-left: 50px;
-padding: 0 15px;
+#kids-cooking div h3 {
+    font-family: "Roboto Condensed", sans-serif;
 }
 
-.recipe-tips {
+/* Kids first corner*/
+.cooking-head > span {
+    text-transform: initial;
+    font-style: italic;
+}
+.cooking-head ~ p {
+    margin-left: 50px;
+    padding: 0 15px;
+}
+
+#kids-corner {
     background: #F3F0E4;
     margin: 20px 40px;
+    height: 500px;
 }
 
 .button-container {
     display: flex;
     flex-direction: row;
     padding: 0 0 20px;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.button-container a {
+    margin: 20px auto;
+    width: 200px;
+    height: 200px;
 }
 
 .topic-button {
     width: 200px;
     height: 200px;
-    margin: 20px 150px;
     padding: 50px;
     border: 1px solid black;
     border-radius: 4px;
-    box-shadow: 9px 9px 10px #cecece;
     font-size: 15px;
 }
+.topic-button:hover {
+    background-color: #E7717D;
+    color: #fff;
+    border: 1px solid #E7717D;
+    box-shadow: 9px 9px 10px #acaaaa;
+    cursor: pointer;
+}
 
-.topic-button a {
+.topic-button p {
     font-size: 70px;
-    text-decoration: none;
 }
 
 /* Sign up form */
@@ -379,7 +394,10 @@ padding: 0 15px;
     margin: 5px 0 20px;
     display: inline-block;
     color: #fff;
-    
+}
+
+.form-input:hover {
+    border: 3px solid #fff;
 }
 
 .join-cooking {
@@ -408,7 +426,6 @@ padding: 0 15px;
 @media screen and (max-width: 1300px) {
     #main-menu {
         position: absolute;
-        left: 50%;
     }
     #main-menu li {
         margin: 0 25px;
