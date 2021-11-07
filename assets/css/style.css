@@ -213,6 +213,7 @@ br {
 footer {
     background: radial-gradient(circle at 10% 20%, rgb(248, 213, 214) 0%, rgb(218, 216, 192) 90%);
     display: flex;
+    clear: both;
 }
 
 .social-media p {
@@ -235,11 +236,11 @@ footer {
 
 .social-media li a {
     font-size: 40px;
-    color: #9ecc54;
+    color: #7E685A;
 }
 
 .social-media li a:hover {
-    color: #7E685A;
+    color: #9ecc54;
 }
 
 /* Cooking classes */
@@ -343,9 +344,11 @@ footer {
     width: 200px;
     height: 200px;
     padding: 50px;
-    border: 1px solid black;
+    border: 1px solid #7E685A;
     border-radius: 4px;
     font-size: 15px;
+    color: #7E685A;
+    font-size: 20px;
 }
 .topic-button:hover {
     background-color: #E7717D;
@@ -359,6 +362,80 @@ footer {
     font-size: 70px;
 }
 
+/* Recipes */
+.active {
+    background-color: #ffb5b5;
+    border: 1px solid #ffb5b5;
+    box-shadow: 9px 9px 10px #acaaaa;
+}
+
+.not-active {
+    background-color: transparent;
+    border: 1px solid #acaaaa;
+    color: #acaaaa;
+}
+
+#kids-recipes {
+    margin: 50px 20px;
+}
+
+.kids-area {
+    clear: both;
+    margin: 20px;
+    padding-top: 50px;
+}
+
+.kids-area h2 {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.recipe-corner {
+    width: 60%;
+    float: left;
+}
+
+.ingredients {
+    height: 20%;
+    background-color: #f7dcb3;
+    margin: 20px 0;
+    padding: 20px;
+}
+
+.ingredients h3, .procedure h3, .ingredients > p {
+    text-align: center;
+}
+
+.ingredients ul {
+    columns: 2;
+    margin: 30px 40px 20px;
+    padding: 5px 20px;
+}
+
+.ingredients li {
+    list-style-type: none;
+}
+
+.procedure ol {
+    padding: 10px 40px;
+}
+
+.info-corner {
+    float: right;
+    width: 40%;
+}
+
+.info-image{
+    width: 70%;
+    height: 20%;
+    margin: 0 auto;
+    display: block;
+}
+
+.info-corner > details {
+    margin: 5px 0 5px 50px;
+padding: 5px;
+}
 /* Sign up form */
 .cooking-form {
     background: url("../images/cooking-table.jpeg") no-repeat center center;
