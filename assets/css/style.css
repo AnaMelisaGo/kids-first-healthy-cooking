@@ -388,6 +388,9 @@ footer {
 .kids-area h2 {
     text-align: center;
     padding-bottom: 10px;
+    font-size: 50px;
+    text-transform: uppercase;
+
 }
 
 .recipe-corner {
@@ -434,7 +437,7 @@ footer {
 
 .info-corner > details {
     margin: 5px 0 5px 50px;
-padding: 5px;
+    padding: 5px;
 }
 /* Sign up form */
 .cooking-form {
