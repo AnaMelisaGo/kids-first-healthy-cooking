@@ -213,7 +213,9 @@ br {
 footer {
     background: radial-gradient(circle at 10% 20%, rgb(248, 213, 214) 0%, rgb(218, 216, 192) 90%);
     display: flex;
-    clear: both;
+    position: relative;
+    bottom: 0;
+    width: 100%;
 }
 
 .social-media p {
@@ -241,6 +243,10 @@ footer {
 
 .social-media li a:hover {
     color: #9ecc54;
+}
+
+.k-social {
+    position: fixed;
 }
 
 /* Cooking classes */
