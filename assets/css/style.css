@@ -207,6 +207,51 @@ br {
     background: #9ecc54;;
     border: 1px solid #9ecc54;;
     color: #fff;
+    box-shadow: 9px 9px 10px #acaaaa;
+}
+
+/* Hot topics */
+.hot-topics {
+    width: 90%;
+    background-color: lemonchiffon;
+    margin: 20px 40px;
+    padding: 20px;
+}
+
+.hot-topics h2 {
+    font-size: 30px;
+}
+
+.hot-topics ul {
+    width: 100%;
+    padding: 20px 0;
+}
+
+.hot-topics li {
+    list-style-type: none;
+    display: inline-block;
+    margin: 0 auto;
+    width: 33%;
+    text-align: center;
+    height: 40px;
+    line-height: 40px;
+}
+
+.hot-topics li a {
+    width: 33%;
+    margin: 0 auto;
+    color: #7E685A;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.hot-topics li:hover {
+    background: #ffb5b5;
+    border-radius: 2px;
+}
+
+.hot-topics li a:hover{
+    color: white;
 }
 
 /* Footer */
