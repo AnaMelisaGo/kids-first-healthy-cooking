@@ -245,10 +245,6 @@ footer {
     color: #9ecc54;
 }
 
-.k-social {
-    position: fixed;
-}
-
 /* Cooking classes */
 #kids-cooking {
     position: relative;
@@ -626,5 +622,12 @@ footer {
         font-size: 18px;
         color: #7E685A;
         padding: 10px;
+    }
+}
+
+/* For Long devices */
+@media screen and (min-height: 800px) {
+    .k-social {
+        position: fixed;
     }
 }
