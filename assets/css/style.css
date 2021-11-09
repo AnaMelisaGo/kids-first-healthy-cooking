@@ -450,27 +450,84 @@ footer {
 .tips-image {
     float: right;
     padding: 20px;
+    margin: 0 10px 0 50px;
+    width: 40%;
 }
 
-.kids-handwash {
-    margin: 40px;
+.handwash-image {
+    width: 90%;
+}
+
+.tips-area {
+    margin: 40px 40px 60px;
 }
     
 
-.kids-handwash h2 {
-    padding-bottom: 10px;
+.tips-area h2 {
+    padding: 20px 10px;
     font-size: 50px;
     text-transform: uppercase;
 }
 
-.kids-handwash > div {
+.tips-image ~ div {
     padding: 20px;
 }
 
-.kids-handwash iframe {
+.tips-area div h3 {
+    display: block;
+    clear: both;
+}
+
+.tips-area iframe {
     clear: both;
     display: block;
-    margin: 0 auto;
+    margin: 20px auto;
+}
+
+#kids-tips p i {
+    font-size: 70px;
+    display: block;
+    color: #E7717D;
+    text-align: center;
+}
+
+.diet-image {
+    width: 100%;
+}
+
+.tips-area div ul {
+    margin-left: 50px;
+}
+
+.daily-percentage li{
+    list-style-type: "✅";
+}
+
+.daily-food li {
+    list-style-type: "🍴";
+}
+
+.daily-food li h5 {
+    font-size: 20px;
+    font-weight: 300;
+    text-decoration: underline;
+}
+
+.disorder-area {
+    width: 90%;
+    margin: 20px auto;
+}
+
+.disorder-area h4 {
+    text-decoration: underline;
+}
+
+.disorder-area ul li {
+    list-style-type: circle;
+}
+
+.disorder-area p span {
+    font-weight: 900;
 }
 
 /* Sign up form */
