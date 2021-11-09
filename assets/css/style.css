@@ -174,6 +174,7 @@ br {
 #under-image {
     height: 200px;
     width: 210px;
+    margin-bottom: 20px;
 }
 
 /* Online cooking button */
@@ -181,7 +182,6 @@ br {
     clear: both;
     height: 100px;
     width: 100%;
-    position: relative;
 }
 #online-cooking button {
     font-size: 25px;
@@ -193,8 +193,8 @@ br {
     color: #7E685A;
     height: 60px;
     width: 500px;
-    position: absolute;
-    left: 30%;
+    display: block;
+    margin: 10px auto;
     transition: all 200ms ease-in-out;
 }
 
@@ -445,6 +445,34 @@ footer {
     margin: 5px 0 5px 50px;
     padding: 5px;
 }
+
+/* Tips */
+.tips-image {
+    float: right;
+    padding: 20px;
+}
+
+.kids-handwash {
+    margin: 40px;
+}
+    
+
+.kids-handwash h2 {
+    padding-bottom: 10px;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+.kids-handwash > div {
+    padding: 20px;
+}
+
+.kids-handwash iframe {
+    clear: both;
+    display: block;
+    margin: 0 auto;
+}
+
 /* Sign up form */
 .cooking-form {
     background: url("../images/cooking-table.jpeg") no-repeat center center;
