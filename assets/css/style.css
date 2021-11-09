@@ -425,6 +425,10 @@ footer {
     list-style-type: none;
 }
 
+.procedure {
+    margin: 30px 0;
+}
+
 .procedure ol {
     padding: 10px 40px;
 }
