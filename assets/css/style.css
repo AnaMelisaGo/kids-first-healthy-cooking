@@ -161,6 +161,7 @@ br {
 #top-image {
     height: 240px;
     width: 210px;
+
 }
 
 #middle-image {
@@ -214,7 +215,7 @@ br {
 .hot-topics {
     width: 90%;
     background-color: lemonchiffon;
-    margin: 20px 40px;
+    margin: 20px auto;
     padding: 20px;
 }
 
@@ -618,7 +619,7 @@ footer {
     background: #C2B9B0;
     font-size: 20px;
     color: #5D5C61;
-    margin: 20px auto;
+    margin: 25px auto 0;
     padding: 20px 50px;
     text-align: center;
     border-radius: 3px;
@@ -639,15 +640,24 @@ footer {
     }
 }
 
-/* For devices lesser than 1200 */
+/* For devices lesser than 1300 */
 @media screen and (max-width: 1300px) {
     #main-menu li {
         margin: 0 25px;
     }
+
     .current {
         color: #fff;
         background-color: #AFD275;
         border-bottom: 4px solid #AFD275;
+    }
+
+    #benefit-container {
+        margin: 40px 5%;
+    }
+
+    #middle-image {
+        margin-left: 30px;
     }
 }
 
@@ -665,11 +675,43 @@ footer {
     #head-text h2 {
         font-size: 30px;
     }
+
+    #benefit-container {
+        margin: 40px auto;
+        display: block;
+    }
+
+    #middle-image {
+        margin: 20px 30%;
+        clear: both;
+    }
+    .benefit-right {
+        margin: 30px;
+    }
+
+    .benefit-image {
+        float: left;
+        margin: 20px 30%;
+    }
+
+    .benefit-text {
+        width: 80%;
+        padding: 20px;
+    }
+
+    #top-image {
+        height: 280px;
+        width: 260px;
+    }
+
+    .hot-topics ul li {
+        width: fit-content;
+        display: block;
+    }
 }
 
 /* For devices lesser than 750px */
 @media screen and (max-width: 750px) {
-
     #kids-first-logo {
         width: 150px;
         height: 50px;
@@ -688,6 +730,12 @@ footer {
         font-size: 25px;
         padding: 15px;
     }
+
+    #online-cooking button {
+        font-size: 20px;
+        width: 70%;
+    }
+
 }
 
 /* For devices lesser than 430px */
@@ -695,19 +743,23 @@ footer {
     body {
         font-size: 16px;
     }
+
     #main-menu li {
         font-size: 15px;
         padding: 11px 5px;
         margin: 0 2px;
     }
+
     .heading {
         font-size: 40px;
         letter-spacing: 0;
         width: 50%;
     }
+
     #head-text {
         width: 60%;
     }
+
     #head-text h2 {
         font-size: 20px;
         padding: 15px;
