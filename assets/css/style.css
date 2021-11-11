@@ -576,14 +576,12 @@ footer {
     background: url("../images/cooking-table.jpeg") no-repeat center center;
     height: 700px;
     width: 100%;
-    clear: both;
     position: relative;
 }
 
 #cooking-signup {
     background-color: rgba(126, 104, 90, .7);
-    width: 500px;
-    height: 400px;
+    width: 40%;
     margin: 30px;
     padding: 40px;
     position: absolute;
@@ -597,11 +595,15 @@ footer {
     margin-bottom: 20px;
 }
 
+#cooking-signup p {
+    margin-bottom: 10px;
+}
+
 .form-input {
     width: 100%;
     height: 20px;
     background: transparent;
-    border: 1px solid #fff;
+    border: 1px solid #acaaaa;
     border-radius: 3px;
     margin: 5px 0 20px;
     display: inline-block;
@@ -609,17 +611,18 @@ footer {
 }
 
 .form-input:hover {
-    border: 3px solid #fff;
+    border: 1px solid #fff;
 }
 
 .join-cooking {
     background: #C2B9B0;
     font-size: 20px;
     color: #5D5C61;
-    margin: 20px;
+    margin: 20px auto;
     padding: 20px 50px;
     text-align: center;
     border-radius: 3px;
+    display: block;
 }
 
 .join-cooking:hover {
@@ -664,8 +667,9 @@ footer {
     }
 }
 
-/* For devices lesser than 670px */
-@media screen and (max-width: 670px) {
+/* For devices lesser than 750px */
+@media screen and (max-width: 750px) {
+
     #kids-first-logo {
         width: 150px;
         height: 50px;
@@ -688,6 +692,9 @@ footer {
 
 /* For devices lesser than 430px */
 @media screen and (max-width: 430px) {
+    body {
+        font-size: 16px;
+    }
     #main-menu li {
         font-size: 15px;
         padding: 11px 5px;
