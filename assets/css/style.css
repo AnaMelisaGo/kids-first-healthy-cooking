@@ -264,11 +264,11 @@ footer {
     color: #7E685A;
     font-size: 15px;
     padding: 35px 10px 0;
-    width: 40%;
+    width: 30%;
 }
 
 .social-media ul {
-    width: 100%;
+    width: 40%;
     display: flex;
 }
 
@@ -708,6 +708,10 @@ footer {
         width: fit-content;
         display: block;
     }
+
+    .social-media p {
+        padding-top: 30px;
+    }
 }
 
 /* For devices lesser than 750px */
@@ -736,6 +740,9 @@ footer {
         width: 70%;
     }
 
+    .social-media p {
+        padding-top: 20px;
+    }
 }
 
 /* For devices lesser than 430px */
@@ -763,5 +770,9 @@ footer {
     #head-text h2 {
         font-size: 20px;
         padding: 15px;
+    }
+
+    .social-media p {
+        padding-top: 0;
     }
 }
