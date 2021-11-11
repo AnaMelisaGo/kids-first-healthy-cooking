@@ -367,7 +367,7 @@ footer {
 #kids-corner {
     background: #F3F0E4;
     margin: 20px 40px;
-    height: 500px;
+    height: 300px;
 }
 
 .button-container {
@@ -380,19 +380,17 @@ footer {
 
 .button-container a {
     margin: 20px auto;
-    width: 200px;
-    height: 200px;
+    text-decoration: none;
 }
 
 .topic-button {
     width: 200px;
-    height: 200px;
-    padding: 50px;
+    height: 100px;
+    padding: 20px;
     border: 1px solid #7E685A;
     border-radius: 4px;
-    font-size: 15px;
     color: #7E685A;
-    font-size: 20px;
+    font-size: 15px;
 }
 .topic-button:hover {
     background-color: #E7717D;
@@ -403,7 +401,7 @@ footer {
 }
 
 .topic-button p {
-    font-size: 70px;
+    font-size: 30px;
 }
 
 /* Recipes */
@@ -634,7 +632,7 @@ footer {
 
 /* RESPONSIVE DESIGN */
 /* For Long devices */
-@media screen and (min-height: 800px) {
+@media screen and (min-height: 500px) {
     .k-social {
         position: fixed;
     }
@@ -649,7 +647,7 @@ footer {
     .current {
         color: #fff;
         background-color: #AFD275;
-        border-bottom: 4px solid #AFD275;
+        border-bottom: 2px solid #AFD275;
     }
 
     #benefit-container {
@@ -670,6 +668,10 @@ footer {
     #main-menu li {
         padding: 10px;
         margin: 0 5px 0 15px;
+    }
+
+    .current {
+        border-bottom: 1px solid #AFD275;
     }
 
     #head-text h2 {
@@ -743,6 +745,17 @@ footer {
     .social-media p {
         padding-top: 20px;
     }
+
+    .button-container {
+        display: block;
+    }
+    
+    .topic-button {
+        margin: 20px auto;
+    }
+
+    #kids-corner {
+        height: 500px;
 }
 
 /* For devices lesser than 430px */
