@@ -496,6 +496,19 @@ footer {
     padding: 5px;
 }
 
+.info-corner details h4 {
+    font-style: italic;
+}
+
+.info-corner details p {
+    font-size: 15px;
+}
+
+.info-corner details a {
+    color: inherit;
+    font-size: 15px;
+}
+
 /* Tips */
 .tips-image {
     float: right;
