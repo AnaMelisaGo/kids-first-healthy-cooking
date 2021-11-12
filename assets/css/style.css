@@ -355,6 +355,11 @@ footer {
 }
 
 /* Kids first corner*/
+.kids-fit {
+    width: 100%;
+    height: 100vh;
+}
+
 .cooking-head > span {
     text-transform: initial;
     font-style: italic;
@@ -372,6 +377,7 @@ footer {
 
 #kids-corner h2 {
     text-align: center;
+    margin-left: 0;
 }
 
 .button-container {
