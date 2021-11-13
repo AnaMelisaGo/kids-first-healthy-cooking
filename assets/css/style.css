@@ -255,15 +255,14 @@ br {
 footer {
     background: radial-gradient(circle at 10% 20%, rgb(248, 213, 214) 0%, rgb(218, 216, 192) 90%);
     display: flex;
-    position: relative;
-    bottom: 0;
     width: 100%;
+    align-items: flex-end;
 }
 
 .social-media p {
     color: #7E685A;
     font-size: 15px;
-    padding: 35px 10px 0;
+    padding: 0 10px;
     width: 30%;
 }
 
@@ -654,13 +653,6 @@ footer {
 }
 
 /* RESPONSIVE DESIGN */
-/* For Long devices */
-/* @media screen and (min-height: 500px) {
-    .k-social {
-        position: fixed;
-    }
-} */
-
 /* For devices lesser than 1300 */
 @media screen and (max-width: 1300px) {
     #main-menu li {
@@ -733,10 +725,6 @@ footer {
         width: fit-content;
         display: block;
     }
-
-    .social-media p {
-        padding-top: 30px;
-    }
 }
 
 /* For devices lesser than 750px */
@@ -769,10 +757,6 @@ footer {
     #online-cooking button {
         font-size: 20px;
         width: 70%;
-    }
-
-    .social-media p {
-        padding-top: 20px;
     }
 
     .button-container {
@@ -814,10 +798,6 @@ footer {
     #head-text {
         width: 60%;
         height:40%;
-    }
-
-    .social-media p {
-        padding-top: 0;
     }
 
     #top-image {
