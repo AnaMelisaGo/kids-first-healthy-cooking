@@ -597,21 +597,21 @@ footer {
 /* Sign up form */
 .cooking-form {
     background: url("../images/cooking-table.jpeg") no-repeat center center;
-    height: 700px;
+    height: 100vh;
     width: 100%;
     position: relative;
+    overflow: scroll;
 }
 
 #cooking-signup {
     background-color: rgba(126, 104, 90, .7);
-    width: 40%;
+    width: 65%;
     margin: 30px;
     padding: 40px;
     position: absolute;
     top: 20px;
     left: 20px;
     color: #fff;
-    
 }
 
 #cooking-signup h2 {
@@ -622,8 +622,13 @@ footer {
     margin-bottom: 10px;
 }
 
+.signup-label {
+    display: block;
+}
+
 .form-input {
-    width: 100%;
+    display: block;
+    width: 70%;
     height: 20px;
     background: transparent;
     border: 1px solid #acaaaa;
@@ -641,7 +646,7 @@ footer {
     background: #C2B9B0;
     font-size: 20px;
     color: #5D5C61;
-    margin: 25px auto 0;
+    margin: 25px auto;
     padding: 20px 50px;
     text-align: center;
     border-radius: 3px;
@@ -727,6 +732,14 @@ footer {
         width: fit-content;
         display: block;
     }
+
+    #cooking-signup {
+        width: 75%;
+    }
+
+    .form-input {
+        width: 85%;
+    }
 }
 
 /* For devices lesser than 750px */
@@ -748,7 +761,6 @@ footer {
 
     #main-menu li:hover {
         padding: 11px 5px 10px;
-
     }
 
     #head-text h2 {
@@ -800,6 +812,7 @@ footer {
         display: block;
         margin: 0 auto;
     }
+
 }
 
 /* For devices small devices */
@@ -851,5 +864,15 @@ footer {
 
     .procedure ol {
         padding: 10px 10px 10px 20px;
+    }
+
+    #cooking-signup {
+        margin: 30px 10px;
+        padding: 20px;
+    }
+
+    .join-cooking {
+        font-size: 15px;
+        padding: 15px 50px;
     }
 }
