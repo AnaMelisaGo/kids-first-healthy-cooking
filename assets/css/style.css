@@ -430,13 +430,13 @@ footer {
     margin: 50px 20px;
 }
 
-.kids-area {
+.recipe-head {
     clear: both;
     margin: 20px;
-    padding-top: 50px;
+    padding-top: 20px;
 }
 
-.kids-area h2 {
+.recipe-head h2 {
     text-align: center;
     padding-bottom: 10px;
     font-size: 50px;
@@ -447,6 +447,7 @@ footer {
 .recipe-corner {
     width: 60%;
     float: left;
+    margin-bottom: 50px;
 }
 
 .ingredients {
