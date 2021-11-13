@@ -400,6 +400,7 @@ footer {
     border-radius: 4px;
     color: #7E685A;
     font-size: 15px;
+    display: block;
 }
 .topic-button:hover {
     background-color: #E7717D;
@@ -428,6 +429,7 @@ footer {
 
 #kids-recipes {
     margin: 50px 20px;
+    text-align: justify;
 }
 
 .recipe-head {
@@ -441,7 +443,6 @@ footer {
     padding-bottom: 10px;
     font-size: 50px;
     text-transform: uppercase;
-
 }
 
 .recipe-corner {
@@ -771,6 +772,22 @@ footer {
     #kids-corner {
         height: 500px;
     }
+
+    .recipe-corner {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    
+    .ingredients ul {
+        columns: 1;
+        text-align: center;
+    }
+
+    .info-corner {
+        float: left;
+        width: 90%;
+        margin-bottom: 60px;
+    }
 }
 
 /* For devices small devices */
@@ -818,5 +835,9 @@ footer {
 
     #kids-corner {
         height: 600px;
+    }
+
+    .procedure ol {
+        padding: 10px 10px 10px 20px;
     }
 }
