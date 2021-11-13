@@ -21,7 +21,7 @@ h1, h2 {
 /* Style header */
 #kids-header{
     height: 100px;
-    background: radial-gradient(circle at 10% 20%, rgb(248, 213, 214) 0%, rgb(243, 242, 229) 90%);
+    background: radial-gradient(circle at 10% 20%, rgb(248, 213, 214) 0%, rgb(243, 242, 229) 90%);  /* From SheCodes color palletes */
     position: relative;
 }
 
@@ -196,7 +196,7 @@ br {
     width: 500px;
     display: block;
     margin: 10px auto;
-    transition: all 200ms ease-in-out;
+    transition: all 200ms ease-in-out;      /* Learned from SheCodes basic course */
 }
 
 #online-cooking button a {
@@ -208,7 +208,7 @@ br {
     background: #9ecc54;;
     border: 1px solid #9ecc54;;
     color: #fff;
-    box-shadow: 9px 9px 10px #acaaaa;
+    box-shadow: 9px 9px 10px #acaaaa;       /* Learned from SheCodes basic course */
 }
 
 /* Hot topics */
@@ -303,8 +303,8 @@ footer {
 #cooking-together {
     width: 100%;
     height: 200px;
-    object-fit: cover;
-    object-position: center 80%;
+    object-fit: cover;      /* From digitalocean tutorial by Alligator.io */
+    object-position: center 80%;        /* From digitalocean tutorial by Alligator.io */
 }
 
 #cooking-time ul {
