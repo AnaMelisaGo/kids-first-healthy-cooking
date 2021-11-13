@@ -429,7 +429,6 @@ footer {
 
 #kids-recipes {
     margin: 50px 20px;
-    text-align: justify;
 }
 
 .recipe-head {
@@ -864,6 +863,11 @@ footer {
 
     .procedure ol {
         padding: 10px 10px 10px 20px;
+    }
+
+    .tips-area h2 {
+        font-size: 40px;
+        text-align: center;
     }
 
     #cooking-signup {
