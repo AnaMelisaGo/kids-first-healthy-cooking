@@ -518,6 +518,10 @@ footer {
     width: 40%;
 }
 
+.tips-image img {
+    width: 40vw;
+}
+
 .handwash-image {
     width: 90%;
 }
@@ -543,9 +547,9 @@ footer {
 }
 
 .tips-area iframe {
-    clear: both;
     display: block;
     margin: 20px auto;
+    width: 70%;
 }
 
 #kids-tips p i {
@@ -553,10 +557,6 @@ footer {
     display: block;
     color: #E7717D;
     text-align: center;
-}
-
-.diet-image {
-    width: 100%;
 }
 
 .tips-area div ul {
@@ -787,6 +787,18 @@ footer {
         float: left;
         width: 90%;
         margin-bottom: 60px;
+    }
+
+    .tips-image {
+        float: none;
+        margin: 0;
+        width: 90%;
+    }
+
+    .tips-image img {
+        width: 100%;
+        display: block;
+        margin: 0 auto;
     }
 }
 
