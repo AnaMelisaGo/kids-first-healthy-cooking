@@ -32,7 +32,7 @@ When I talked to my mentor, he advised me it’s better to come up with an origi
 <br/>
 <br/>
 
-After giving it a lot of thought, finally I come up with the best one for my project. I found some books in my house that I purchased when my child was born. It’s a series of recipe books for 6-month-old babies up to 5-year-old toddlers. And that’s how I came up with the __Online cooking with kids__ website. I want to show and promote cooking healthy food with kids and to teach them the basics of cooking. It's easier to build. I kept the website’s name "__KIDS *first*__" and I added the recipes from the recipe books and some tips for the kids as an extra to make the webpage more dynamic and engaging. As an example, my child loves the handwashing video I put. Ever since we watched it, she always remember the video every time she washes her hands.
+After giving it a lot of thought, finally I come up with the best one for my project. I found some books in my house that I purchased when my child was born. It’s a series of recipe books for 6-month-old babies up to 5-year-old toddlers. And that’s how I came up with the __Online cooking with kids__ website. I want to show and promote cooking healthy food with kids and to teach them the basics of cooking. It's easier to build. I kept the website’s name "__KIDS *first*__" and I added the recipes from the recipe books and some tips for the kids as an extra to make the webpage more dynamic and engaging. As an example, my child loves the handwashing video I put. Ever since we watch it, she always remembers the video every time she washes her hands. So I made a wireframe using Balsamiq to sketch some of my ideas and it serves as a guide in shaping the website.
 <br>
 <p align="center">
 <img src="assets/images/kids-first-wireframe.png" alt="My webpage wireframe" width="400" height="300">
@@ -52,28 +52,54 @@ https://user-images.githubusercontent.com/86141994/141697283-388756d7-d2ac-40ee-
 
 <br>
 
-## NAVIGATION BAR
+### NAVIGATION BAR
 <img src="assets/images/nav-bar.png" alt="Kids first website navigation bar">
 
-It has 4 menu
+It has four menus:
 <br>
 
-- __Home:__ takes you to homepage
+- __Home:__ takes you to home page.
 - __Cooking class:__ Shows the timetables and how each class is organized.
 - __K corner:__ Extra content for kids and the family as well.
 - __Sign up__
 <br>
 
-## BENEFITS OF COOKING WITH KIDS
+### BENEFITS OF COOKING WITH KIDS
 
 In this section, I want to explain to everyone, especially to parents all the benefits that cooking can bring to the kids. Cooking is not just making food. Cooking can teach the children the ability to read, to count, to write, can even boost their confidence, organization, and social skills, and most especially they learn to eat healthily, the advantage of a healthy diet and to be clean all the time.
 
 <br>
 
-## HOT TOPICS
+### HOT TOPICS
 
 I added an extra section on the home page where I listed some interesting topics and recipes that can be helpful for everyone.
 
 <br>
 
 <img src="assets/images/hot-topics.png" alt="The hot topics section">
+
+<br>
+
+## COOKING CLASS
+
+Each class has a different time and a different meal so that all the recipes change each class. I made this part in small chunks for easy reading. I explained briefly how we organize each class.
+
+<img src="assets/images/online-class.png" alt="Class timetables and class organization">
+
+<br>
+
+## K CORNER
+
+__K CORNER__ stands for Kids first corner. It's where I added the extra content of this project.
+
+<img src="assets/images/kids-corner.png" alt="The kids first corner page">
+
+<br>
+
+### RECIPES
+
+<br>
+
+### TIPS
+
+<br>
