@@ -25,12 +25,17 @@ My first idea for my first portfolio project was a history webpage just as the a
 
 When I talked to my mentor, he advised me it’s better to come up with an original idea, but the history project is a good one too. My mind was enlightened, so I changed the idea to a __Health guide for kids__ webpage but then, it’s a very difficult one because it has a lot of content, a lot of searching, including the first idea, that could take all the time I have rather than spending it in coding. I even designed a logo for it.
 
-<img src="assets/images/first-logo.png" alt="My first logo for the project" height="300" style="display: block; margin: 0 auto;">
+<p align="center">
+<img src="assets/images/first-logo.png" alt="My first logo for the project" height="300">
+</p>
 <br/>
 <br/>
 
 After giving it a lot of thought, finally I come up with the best one for my project. I found some books in my house that I purchased when my child was born. It’s a series of recipe books for 6-month-old babies up to 5-year-old toddlers. And that’s how I came up with the online cooking with kids website. I want to show and promote cooking healthy food with kids and to teach them the basics of cooking. It's easier to build. I kept the website’s name "__KIDS *first*__" and I added the recipes from the recipe books and some tips for the kids as an extra to make the webpage more dynamic and engaging. As an example, my child loves the handwashing video I put. Ever since we watched it, she always remember the video every time she washes her hands.
-<img src="assets/images/kids-first-wireframe.png" alt="My webpage wireframe" width="400" height="300" style="display: block; margin: 0 auto;">
+<br>
+<p align="center">
+<img src="assets/images/kids-first-wireframe.png" alt="My webpage wireframe" width="400" height="300">
+</p>
 <br>
 <br>
 
