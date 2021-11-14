@@ -48,7 +48,7 @@ After giving it a lot of thought, finally I come up with the best one for my pro
 
 ## HOMEPAGE
 
-https://user-images.githubusercontent.com/86141994/141696735-35bb301a-524c-4162-b396-de018fb80e81.mov
+https://user-images.githubusercontent.com/86141994/141697283-388756d7-d2ac-40ee-92c5-8cb550cd1094.mov
 
 ## MAIN MENU
 
