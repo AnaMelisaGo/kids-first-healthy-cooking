@@ -50,5 +50,30 @@ After giving it a lot of thought, finally I come up with the best one for my pro
 
 https://user-images.githubusercontent.com/86141994/141697283-388756d7-d2ac-40ee-92c5-8cb550cd1094.mov
 
-## MAIN MENU
+<br>
 
+## NAVIGATION BAR
+<img src="assets/images/nav-bar.png" alt="Kids first website navigation bar">
+
+It has 4 menu
+<br>
+
+- __Home:__ takes you to homepage
+- __Cooking class:__ Shows the timetables and how each class is organized.
+- __K corner:__ Extra content for kids and the family as well.
+- __Sign up__
+<br>
+
+## BENEFITS OF COOKING WITH KIDS
+
+In this section, I want to explain to everyone, especially to parents all the benefits that cooking can bring to the kids. Cooking is not just making food. Cooking can teach the children the ability to read, to count, to write, can even boost their confidence, organization, and social skills, and most especially they learn to eat healthily, the advantage of a healthy diet and to be clean all the time.
+
+<br>
+
+## HOT TOPICS
+
+I added an extra section on the home page where I listed some interesting topics and recipes that can be helpful for everyone.
+
+<br>
+
+<img src="assets/images/hot-topics.png" alt="The hot topics section">
