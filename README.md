@@ -43,6 +43,7 @@ After giving it a lot of thought, finally I come up with the best one for my pro
 # SCREENSHOTS AND FEATURES
 
 <img src="assets/images/kids-first-responsive.png" alt="Kids first website on different devices">
+<br>
+<br>
 
 ## HOMEPAGE
-
