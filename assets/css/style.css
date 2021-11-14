@@ -253,10 +253,10 @@ br {
 
 /* Footer */
 footer {
-    background: radial-gradient(circle at 10% 20%, rgb(248, 213, 214) 0%, rgb(218, 216, 192) 90%);
-    display: flex;
+    background: radial-gradient(circle at 10% 20%, rgb(248, 213, 214) 0%, rgb(218, 216, 192) 90%);   /* From SheCodes color palletes */
+    display: flex;      /* From stackoverflow */
     width: 100%;
-    align-items: flex-end;
+    align-items: flex-end;  /* From stackoverflow */
 }
 
 .social-media p {
@@ -406,7 +406,7 @@ footer {
     background-color: #E7717D;
     color: #fff;
     border: 1px solid #E7717D;
-    box-shadow: 9px 9px 10px #acaaaa;
+    box-shadow: 9px 9px 10px #acaaaa;       /* Learned from SheCodes basic course */
     cursor: pointer;
 }
 
@@ -418,7 +418,7 @@ footer {
 .active {
     background-color: #ffb5b5;
     border: 1px solid #ffb5b5;
-    box-shadow: 9px 9px 10px #acaaaa;
+    box-shadow: 9px 9px 10px #acaaaa;       /* Learned from SheCodes basic course */
 }
 
 .not-active {
