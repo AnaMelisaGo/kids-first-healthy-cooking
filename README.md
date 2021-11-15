@@ -66,7 +66,7 @@ It has four menus:
 
 ### BENEFITS OF COOKING WITH KIDS
 
-In this section, I want to explain to everyone, especially to parents all the benefits that cooking can bring to the kids. Cooking is not just making food. Cooking can teach the children the ability to read, to count, to write, can even boost their confidence, organization, and social skills, and most especially they learn to eat healthily, the advantage of a healthy diet and to be clean all the time.
+In this section, I want to explain to everyone, especially to parents all the benefits that cooking can bring to the kids. Cooking is not just making food. Cooking can teach the children the ability to read, to count, to write, can even boost their confidence, social skills, and to be organized, and most especially they learn to eat healthily, the advantage of a healthy diet and to be clean all the time.
 
 <br>
 
@@ -82,7 +82,7 @@ I added an extra section on the home page where I listed some interesting topics
 
 ## COOKING CLASS
 
-Each class has a different time and a different meal so that all the recipes change each class. I made this part in small chunks for easy reading. I explained briefly how we organize each class.
+Each class has a different time and a different meal so that all the recipes change each class. I made this part in small chunks for easy reading. I explained briefly how each class is organized.
 
 <img src="assets/images/online-class.png" alt="Class timetables and class organization">
 
