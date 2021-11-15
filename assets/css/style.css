@@ -305,7 +305,8 @@ footer {
     color: #9ecc54;
 }
 
-.contact-us {
+/* Contact Us */
+#contact-us {
     color: #7E685A;
     text-decoration: none;
     font-size: 15px;
@@ -315,11 +316,11 @@ footer {
     margin: 0 auto;
 }
 
-.contact-us i {
+#contact-us i {
     font-size: 40px;
 }
 
-.contact-us i:hover {
+#contact-us i:hover {
     color: #9ecc54;
 }
 
