@@ -43,6 +43,7 @@ After giving it a lot of thought, finally I come up with the best one for my pro
 # SCREENSHOTS AND FEATURES
 
 <img src="assets/images/kids-first-responsive.png" alt="Kids first website on different devices">
+
 <br>
 <br>
 
@@ -61,7 +62,10 @@ It has four menus:
 - __Home:__ takes you to home page.
 - __Cooking class:__ Shows the timetables and how each class is organized.
 - __K corner:__ Extra content for kids and the family as well.
+    - Recipes
+    - Tips
 - __Sign up__
+
 <br>
 
 ### BENEFITS OF COOKING WITH KIDS
@@ -90,7 +94,9 @@ Each class has a different time and a different meal so that all the recipes cha
 
 ## K CORNER
 
-__K CORNER__ stands for Kids first corner. It's where I added the extra content of this project.
+__K CORNER__ stands for Kids first corner. This section is where I added the extra content of my project. It provides some helpful guides in cooking. It splits into two parts: RECIPES and TIPS.
+
+<br>
 
 <img src="assets/images/kids-corner.png" alt="The kids first corner page">
 
