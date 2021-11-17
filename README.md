@@ -56,6 +56,15 @@ https://user-images.githubusercontent.com/86141994/141697283-388756d7-d2ac-40ee-
 ### NAVIGATION BAR
 <img src="assets/images/nav-bar.png" alt="Kids first website navigation bar">
 
+<br>
+
+__Logo__
+
+<img src="assets/images/kids-first-logo.png" alt="Kids first logo" width="100" height="40">
+ 
+It's the company name
+
+
 It has four menus:
 <br>
 
@@ -70,7 +79,7 @@ It has four menus:
 
 ### BENEFITS OF COOKING WITH KIDS
 
-In this section, I want to explain to everyone, especially to parents all the benefits that cooking can bring to the kids. Cooking is not just making food. Cooking can teach the children the ability to read, to count, to write, can even boost their confidence, social skills, and to be organized, and most especially they learn to eat healthily, the advantage of a healthy diet and to be clean all the time.
+In this section, I explain the benefits that cooking can bring to all kids. Cooking is not just making food. Cooking can teach the children the ability to read, to count, to write, can even boost their confidence, social skills, and to be organized, and most especially they learn to eat healthily, the advantage of a healthy diet and to be clean all the time.
 
 <br>
 
@@ -104,8 +113,17 @@ __K CORNER__ stands for Kids first corner. This section is where I added the ext
 
 ### RECIPES
 
+In this section, I put some cool recipes that can help families in making delicious and healthy meals for their kids. I added some healthy facts too about the main ingredient of the recipe. 
+
+<p align="center">
+<img src="assets/images/info-corner.png" alt="A photo of a bowl full of spinach with its healthy info">
+</p>
+
 <br>
 
 ### TIPS
+This section is all about guidelines for the whole family, centered mostly on children, for example the proper way of handwashing.
+
+<img src="assets/images/tips-video.png" alt="A youtube video about proper handwash">
 
 <br>
