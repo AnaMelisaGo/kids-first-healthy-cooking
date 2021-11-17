@@ -144,3 +144,6 @@ This page is where interested families can sign up for our online cooking. The f
 <img src="assets/images/sign-up-page.png" alt="Sign up page">
 
 <br>
+
+## Footer
+
