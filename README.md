@@ -62,10 +62,10 @@ __Logo__
 
 <img src="assets/images/kids-first-logo.png" alt="Kids first logo" width="100" height="40">
  
-It's the company name
+It's the name of the online cooking class. When clicked it brings back to the home page.
 
 
-It has four menus:
+The navigation bar has four menus:
 <br>
 
 - __Home:__ takes you to home page.
@@ -74,6 +74,8 @@ It has four menus:
     - Recipes
     - Tips
 - __Sign up__
+
+The current page on the screen is highlighted with a light green color on the navigation bar.
 
 <br>
 
@@ -111,6 +113,14 @@ __K CORNER__ stands for Kids first corner. This section is where I added the ext
 
 <br>
 
+When any of these two buttons is clicked, it is highlighted with a light pink background and a little bit of a shadow. And the other one changes the text color into gray to make it more obvious that it's not the one selected.
+
+<br>
+
+<img src="assets/images/k-corner-active.png" alt="The K corner buttons when clicked">
+
+<br>
+
 ### RECIPES
 
 In this section, I put some cool recipes that can help families in making delicious and healthy meals for their kids. I added some healthy facts too about the main ingredient of the recipe. 
@@ -125,5 +135,12 @@ In this section, I put some cool recipes that can help families in making delici
 This section is all about guidelines for the whole family, centered mostly on children, for example the proper way of handwashing.
 
 <img src="assets/images/tips-video.png" alt="A youtube video about proper handwash">
+
+<br>
+
+## Sign Up page
+This page is where interested families can sign up for our online cooking. The form is simple with a little touch of an attractive background to indicate the purpose. All data asked are required for identification and future communication. Families should select the day or days they want to participate to group them and organize the cooking sessions.
+
+<img src="assets/images/sign-up-page.png" alt="Sign up page">
 
 <br>
