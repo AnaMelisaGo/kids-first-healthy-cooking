@@ -1,12 +1,12 @@
 <img src="assets/images/kids-first-logo.png" alt="Kids first logo" width="200" height="80">
 
-# ONLINE COOKING CLASSES
+# Online Cooking Class
 Created especially for the little ones in the house, and of course, for the whole family. It's healthy, free, fun, and friendly.
 <br/>
 <br/>
 <br/>
 
-## INTRODUCTION
+## Introduction
 __KIDS *first*__ offer healthy online cooking classes aimed to teach basic cooking techniques to the little ones at home and of course to the whole family as well.
 
 Cooking is an art. It's a daily house choir that can be learned by doing. Teaching the art of cooking from an early age with the help of these online cooking classes can promote creativity, a healthy and nutritious diet, cleanliness, self-confidence, and all other good benefits that cooking can bring to the whole family, especially to the kids in the house.
@@ -16,7 +16,7 @@ Good family bonding can be achieved by implicating everyone to do something and 
 Cooking in our very own cozy little kitchen all together with our kids, helping each other to finish a nice good meal, and also cooking and sharing tips with other families from their own kitchen is fun, beneficial, and healthy. It’s the best way to spend time with the family and to enjoy a nice healthy meal created by everyone.
 <br>
 
-## ORIGIN
+## Origin
 My first idea for my first portfolio project was a history webpage just as the assessment guide suggested, which I thought was easier. It’s about __Vikings__ and their history.
 
 <p align="center">
@@ -40,20 +40,20 @@ After giving it a lot of thought, finally I come up with the best one for my pro
 <br>
 <br>
 
-# SCREENSHOTS AND FEATURES
+# Screenshots and Features
 
 <img src="assets/images/kids-first-responsive.png" alt="Kids first website on different devices">
 
 <br>
 <br>
 
-## HOMEPAGE
+## Homepage
 
 https://user-images.githubusercontent.com/86141994/141697283-388756d7-d2ac-40ee-92c5-8cb550cd1094.mov
 
 <br>
 
-### NAVIGATION BAR
+### Navigation Bar
 <img src="assets/images/nav-bar.png" alt="Kids first website navigation bar">
 
 <br>
@@ -79,7 +79,7 @@ The current page on the screen is highlighted with a light green color on the na
 
 <br>
 
-### BENEFITS OF COOKING WITH KIDS
+### Benefit of Cooking with Kids
 
 In this section, I explain the benefits that cooking can bring to all kids. Cooking is not just making food. Cooking can teach the children the ability to read, to count, to write, can even boost their confidence, social skills, and to be organized, and most especially they learn to eat healthily, the advantage of a healthy diet and to be clean all the time.
 
@@ -95,7 +95,7 @@ I added an extra section on the home page where I listed some interesting topics
 
 <br>
 
-## COOKING CLASS
+## Cooking class
 
 Each class has a different time and a different meal so that all the recipes change each class. I made this part in small chunks for easy reading. I explained briefly how each class is organized.
 
@@ -103,9 +103,9 @@ Each class has a different time and a different meal so that all the recipes cha
 
 <br>
 
-## K CORNER
+## K Corner
 
-__K CORNER__ stands for Kids first corner. This section is where I added the extra content of my project. It provides some helpful guides in cooking. It splits into two parts: RECIPES and TIPS.
+__K Corner__ stands for Kids first corner. This section is where I added the extra content of my project. It provides some helpful guides in cooking. It splits into two parts: RECIPES and TIPS.
 
 <br>
 
@@ -121,7 +121,7 @@ When any of these two buttons is clicked, it is highlighted with a light pink ba
 
 <br>
 
-### RECIPES
+### Recipes
 
 In this section, I put some cool recipes that can help families in making delicious and healthy meals for their kids. I added some healthy facts too about the main ingredient of the recipe. 
 
@@ -131,7 +131,7 @@ In this section, I put some cool recipes that can help families in making delici
 
 <br>
 
-### TIPS
+### Tips
 This section is all about guidelines for the whole family, centered mostly on children, for example the proper way of handwashing.
 
 <img src="assets/images/tips-video.png" alt="A youtube video about proper handwash">
@@ -158,13 +158,13 @@ It's a page where parents or anyone can send any questions, comments or suggesti
 <br>
 <br>
 
-# CREDITS
+# Credits
 
 I want to thank all these people and all these sites and applications who helped me build a very exciting, fruitful website. 
 
-### MEDIA
+## Media
 
-#### PHOTOS
+### Photos
 - [Pexels](https://www.pexels.com/ "A site for free photos and videos")
     - Rodnae production: A mom and a child grating cheese (main image), a pretty girl eating pasta, kids washing their hands.
     - Angela Roma: Happy kids making gyozas.
@@ -182,54 +182,128 @@ I want to thank all these people and all these sites and applications who helped
 <br>
 
 - [Center of Disease Control and Prevention (CDC)](https://www.cdc.gov/):
-
     - Handwashing photo
 
 <br>
 
 - [Parenting Healthy Babies](https://parentinghealthybabies.com/ "A website to guide parents during pregnancy, childbirth, and parenting"):
-
     - Food pyramid for healthy toddlers photo
 
 <br>
 
-#### VIDEOS
+### Videos
 
 - Youtube
-
     - Smile and Learn: [10 steps to wash your hands](https://youtu.be/Br4sQmiJ1jU)
 
 <br>
 
-### CONTENT
+## Content
 
 - __Recipes__ and __Kids balance diet and food can cure__:
-    - “Recetas para bebes y niños: del 1 al 5 años" *(Recipes for barbies and children: from 1 to 5 years old)*
+    - “Recetas para bebes y niños: del 1 al 5 años" *(Recipes for babies and children: from 1 to 5 years old)*
         <br>
         Mi bebe y yo
         <br>
         Sfera Editores España, S.L.U
 
-        <br>
+<br>
 
 - __Benefit of cooking with kids__:
     - https://www.teambuildingwithtaste.com/why-family-cooking-together-matters/
     - https://mommyuniversitynj.com/2015/03/16/10-benefits-of-cooking-with-kids/
 
-    <br>
+<br>
 
 - __Handwashing__:
     - [Center of Disease Control and Prevention (CDC): Handwashing](https://www.cdc.gov/handwashing/handwashing-family.html)
 
-    <br>
+<br>
 
 - __Milk benefit__
     - [Healthline](https://www.healthline.com/nutrition/milk-benefits#TOC_TITLE_HDR_8)
 
-    <br>
+<br>
 
 - __Ham croquettes__ (Croquetas de jamon)
     - [Pequerecetas](https://www.pequerecetas.com/receta/croquetas-de-jamon/)
 
-    <br>
+<br>
 
+## Codes
+
+- [SheCodes](https://www.shecodes.io/)
+
+    My interest in coding started way back in high school. But I took another course and now I want to shift into the tech world. I started my tech journey with SheCodes before I went to Code Institute. I learned some basic knowledge of HTML, CSS, and Javascript with their basic workshops. They provided their students with some dev tools to use, such as CSS color palettes, color gradients, and much more. It's where I took the color gradient for this project's header and footer.
+
+- Love Running
+
+    I used as a guide some of the codes I learned during the development of the Love Running website.
+
+- [MDN WEB DOCS](https://developer.mozilla.org/en-US/)
+
+- [W3 SCHOOLS](https://www.w3schools.com/)
+
+- [STACK OVERFLOW](https://stackoverflow.com/)
+
+- Slack
+
+<br>
+
+During all these years of working with Google Drive and using Google Sheets, I got used to searching everything on the internet. Here are the codes that helped me a lot in this project from other developers.
+
+- To crop image using CSS: By Alligator.io
+    
+    https://www.digitalocean.com/community/tutorials/css-cropping-images-object-fit
+
+- How to link a section of a page to another page using id 
+
+    https://stackoverflow.com/questions/20565644/how-to-link-to-a-div-on-another-page
+
+- Vertical align of flex elements
+    
+    https://stackoverflow.com/questions/5150411/align-divs-to-the-bottom-of-their-container
+
+- To center an image in md files
+
+    https://stackoverflow.com/questions/12090472/how-do-i-center-an-image-in-the-readme-md-file-on-github
+
+- To add empty space in md files
+
+    https://stackoverflow.com/questions/44810511/how-to-add-empty-spaces-into-md-markdown-readme-on-github
+
+- Add video to md files
+
+    https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md
+
+- [Website Color Schemes](https://visme.co/blog/website-color-schemes/): it's where I took  the color scheme of this project.
+
+<br>
+
+## Software / App
+
+- Phone built-in photo editor: to crop large images to use it easily.
+
+- LogoMaker app: it's a phone app for free to create logos without a background.
+
+- Google form: for contact us form.
+
+- Google doc: to document all my thoughts and research with or without my computer (especially during working hours). I can access my files using my phone.
+
+- Quicktime player: to record the screen of my home page for this project's README.
+
+- [Grammarly](https://app.grammarly.com/): for grammar and spelling checks.
+
+- Google translate: to translate some content from the book recipe that I have to english.
+
+<br>
+
+# Technology
+
+This project was written in HTML and CSS. It is hosted on Github.
+
+<br>
+
+# Testing
+
+- I tested on different browsers like Google Chrome, Mozilla Firefox, and Safari
