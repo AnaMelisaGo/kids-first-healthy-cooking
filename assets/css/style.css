@@ -590,11 +590,14 @@ footer {
     margin: 40px 40px 60px;
 }
 
-
 .tips-area h2 {
     padding: 20px 10px;
     font-size: 50px;
     text-transform: uppercase;
+}
+
+.tips-area div h4 {
+    font-family: "Roboto Condensed", sans-serif;
 }
 
 .tips-image~div {
