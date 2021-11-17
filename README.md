@@ -24,7 +24,7 @@ My first idea for my first portfolio project was a history webpage just as the a
 </p>
 <br/>
 
-When I talked to my mentor, he advised me it’s better to come up with an original idea, but the history project is a good one too. My mind was enlightened, so I changed the idea to a __Health guide for kids__ webpage but then, it’s a very difficult one because it has a lot of content, it takes a lot of searching, including the first idea, that could consume all the time I have, rather than spending it in coding. I even designed a logo for it.
+When I talked to my mentor, he advised me it’s better to come up with an original idea, but the history project is a good one too. My mind was enlightened, so I changed the idea to a __Health guide for kids__ webpage. But then, these two ideas are very difficult ones because it has a lot of content, it could take a lot of searching, that can consume all the time I have, which I could spend it in coding instead. I even designed a logo for it but I didn't use it.
 
 <p align="center">
 <img src="assets/images/first-logo.png" alt="My first logo for the project" height="300">
@@ -32,7 +32,7 @@ When I talked to my mentor, he advised me it’s better to come up with an origi
 <br/>
 <br/>
 
-After giving it a lot of thought, finally I come up with the best one for my project. I found some books in my house that I purchased when my child was born. It’s a series of recipe books for 6-month-old babies up to 5-year-old toddlers. And that’s how I came up with the __Online cooking with kids__ website. I want to show and promote cooking healthy food with kids and to teach them the basics of cooking. It's easier to build. I kept the website’s name "__KIDS *first*__" and I added the recipes from the recipe books and some tips for the kids as an extra to make the webpage more dynamic and engaging. As an example, my child loves the handwashing video I put. Ever since we watch it, she always remembers the video every time she washes her hands. So I made a wireframe using Balsamiq to sketch some of my ideas and it serves as a guide in shaping the website.
+After giving it a lot of thought, finally I come up with the best one for my project. I found some books in my house that I purchased when my child was born. It’s a series of recipe books for 6-month-old babies up to 5-year-old toddlers. And that’s how I came up with the __Online cooking with kids__ website. I want to show and promote cooking healthy food with kids and to teach them the basics of cooking. It's easier to build. I also kept the website’s name "__KIDS *first*__" and I added the recipes from the recipe books and some tips too for the kids as an extra to make the webpage more dynamic and engaging. As an example, my child loves the handwashing video I put. Ever since we watch it, she always remembers the video every time she washes her hands. So I made a wireframe using Balsamiq to sketch some of my ideas and it served as a guide in shaping the website.
 <br>
 <p align="center">
 <img src="assets/images/kids-first-wireframe.png" alt="My webpage wireframe" width="400" height="300">
@@ -139,11 +139,24 @@ This section is all about guidelines for the whole family, centered mostly on ch
 <br>
 
 ## Sign Up page
-This page is where interested families can sign up for our online cooking. The form is simple with a little touch of an attractive background to indicate the purpose. All data asked are required for identification and future communication. Families should select the day or days they want to participate to group them and organize the cooking sessions.
+This page is where interested families can sign up for the online cooking classes. The form is simple with a little touch of an attractive background to indicate the purpose. All data asked are required for identification and future communication. Families should select the day or days they want to participate to group them and organize the cooking sessions.
 
 <img src="assets/images/sign-up-page.png" alt="Sign up page">
 
 <br>
 
 ## Footer
+The footer is where all the social media networks lie. When the mouse pointer is on top of the icon it changes to a light green color to match the color scheme of the page. I also added an icon to contact us. I added my name too, as the author and creator of the website.
+
+<img src="assets/images/footer-buttons.png" alt="Kids first footer">
+
+<br>
+
+### Contact Us
+It's a page where parents or anyone can send any questions, comments or suggestions. It helps in solving any doubts, or including any new content they suggest like a new recipe, new tips or anything about the website’s improvement.
+
+<br>
+<br>
+
+# CREDITS
 
