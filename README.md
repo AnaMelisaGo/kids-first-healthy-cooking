@@ -160,3 +160,76 @@ It's a page where parents or anyone can send any questions, comments or suggesti
 
 # CREDITS
 
+I want to thank all these people and all these sites and applications who helped me build a very exciting, fruitful website. 
+
+### MEDIA
+
+#### PHOTOS
+- [Pexels](https://www.pexels.com/ "A site for free photos and videos")
+    - Rodnae production: A mom and a child grating cheese (main image), a pretty girl eating pasta, kids washing their hands.
+    - Angela Roma: Happy kids making gyozas.
+    - Dana Tentis: A kitchen table with frying pan, tomatoes, spoon and pasta (sign up photo).
+    - Kampus production: Three kids baking in the kitchen.
+    - SHVETS: Fresh fishes.
+    - Louis Hanse: Bowl of spinach.
+    - Charlotte May: A glass and a bottle of milk.
+
+<br>
+
+- [Unsplash](https://unsplash.com/ "Free usable images")
+    - Bakd&Raw by Karolin Baitinger: Pasta salad photo.
+
+<br>
+
+- [Center of Disease Control and Prevention (CDC)](https://www.cdc.gov/):
+
+    - Handwashing photo
+
+<br>
+
+- [Parenting Healthy Babies](https://parentinghealthybabies.com/ "A website to guide parents during pregnancy, childbirth, and parenting"):
+
+    - Food pyramid for healthy toddlers photo
+
+<br>
+
+#### VIDEOS
+
+- Youtube
+
+    - Smile and Learn: [10 steps to wash your hands](https://youtu.be/Br4sQmiJ1jU)
+
+<br>
+
+### CONTENT
+
+- __Recipes__ and __Kids balance diet and food can cure__:
+    - “Recetas para bebes y niños: del 1 al 5 años" *(Recipes for barbies and children: from 1 to 5 years old)*
+        <br>
+        Mi bebe y yo
+        <br>
+        Sfera Editores España, S.L.U
+
+        <br>
+
+- __Benefit of cooking with kids__:
+    - https://www.teambuildingwithtaste.com/why-family-cooking-together-matters/
+    - https://mommyuniversitynj.com/2015/03/16/10-benefits-of-cooking-with-kids/
+
+    <br>
+
+- __Handwashing__:
+    - [Center of Disease Control and Prevention (CDC): Handwashing](https://www.cdc.gov/handwashing/handwashing-family.html)
+
+    <br>
+
+- __Milk benefit__
+    - [Healthline](https://www.healthline.com/nutrition/milk-benefits#TOC_TITLE_HDR_8)
+
+    <br>
+
+- __Ham croquettes__ (Croquetas de jamon)
+    - [Pequerecetas](https://www.pequerecetas.com/receta/croquetas-de-jamon/)
+
+    <br>
+
