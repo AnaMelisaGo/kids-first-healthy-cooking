@@ -252,6 +252,7 @@ br {
 .hot-topics ul {
     width: 100%;
     padding: 20px 0;
+    text-align: center;
 }
 
 .hot-topics ul li {
