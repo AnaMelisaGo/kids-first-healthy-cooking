@@ -22,8 +22,8 @@ h2 {
 /* Style header */
 #kids-header {
     height: 100px;
+    /* From SheCodes color gradients */
     background: radial-gradient(circle at 10% 20%, rgb(248, 213, 214) 0%, rgb(243, 242, 229) 90%);
-    /* From SheCodes color palletes */
     position: relative;
 }
 
@@ -212,9 +212,6 @@ br {
 #online-cooking a {
     text-decoration: none;
     color: inherit;
-}
-
-#online-cooking a button {
     font-size: 25px;
     font-weight: 900;
     font-family: Raleway, sans-serif;
@@ -222,20 +219,24 @@ br {
     border: 1px solid #7E685A;
     border-radius: 30px;
     color: #7E685A;
-    height: 60px;
+    height: 40px;
     width: 500px;
     display: block;
     margin: 10px auto;
+    /* Learned from SheCodes basic course */
     transition: all 200ms ease-in-out;
     cursor: pointer;
-    /* Learned from SheCodes basic course */
+    text-align: center;
+    padding: 10px 0;
+    line-height: 40px;
 }
 
-#online-cooking button:hover {
+#online-cooking a:hover {
     background: #9ecc54;
     border: 1px solid #9ecc54;
     color: #fff;
-    box-shadow: 9px 9px 10px #acaaaa;   /* Learned from SheCodes basic course */
+    /* Learned from SheCodes basic course */
+    box-shadow: 9px 9px 10px #acaaaa;
 }
 
 /* Hot topics */
@@ -280,13 +281,13 @@ br {
 
 /* Footer */
 footer {
-    background: radial-gradient(circle at 10% 20%, rgb(248, 213, 214) 0%, rgb(218, 216, 192) 90%);
     /* From SheCodes color palletes */
+    background: radial-gradient(circle at 10% 20%, rgb(248, 213, 214) 0%, rgb(218, 216, 192) 90%);
+    /* From stackoverflow */
     display: flex;
-    /* From stackoverflow */
     width: 100%;
-    align-items: flex-end;
     /* From stackoverflow */
+    align-items: flex-end;
 }
 
 .social-media p {
@@ -352,10 +353,9 @@ footer {
 #cooking-together {
     width: 100%;
     height: 200px;
+    /* From digitalocean tutorial by Alligator.io */
     object-fit: cover;
-    /* From digitalocean tutorial by Alligator.io */
     object-position: center 80%;
-    /* From digitalocean tutorial by Alligator.io */
 }
 
 #cooking-time ul {
@@ -453,16 +453,16 @@ footer {
     color: #7E685A;
     font-size: 15px;
     display: block;
-    transition: all 200ms ease-in-out;
     /* Learned from SheCodes basic course */
+    transition: all 200ms ease-in-out;
 }
 
 .topic-button:hover {
     background-color: #E7717D;
     color: #fff;
     border: 1px solid #E7717D;
-    box-shadow: 9px 9px 10px #acaaaa;
     /* Learned from SheCodes basic course */
+    box-shadow: 9px 9px 10px #acaaaa;
     cursor: pointer;
 }
 
@@ -474,8 +474,8 @@ footer {
 .active {
     background-color: #ffb5b5;
     border: 1px solid #ffb5b5;
-    box-shadow: 9px 9px 10px #acaaaa;
     /* Learned from SheCodes basic course */
+    box-shadow: 9px 9px 10px #acaaaa;
 }
 
 .not-active {
@@ -853,7 +853,7 @@ footer {
         padding: 20px 10px;
     }
 
-    #online-cooking a button {
+    #online-cooking a {
         font-size: 20px;
         width: 70%;
     }
@@ -865,7 +865,7 @@ footer {
     #contact-us {
         text-align: center;
     }
-    
+
     #contact-us i {
         display: block;
     }
