@@ -35,10 +35,17 @@ h2 {
 }
 
 /* Style navigation */
+.current {
+    background-color: #AFD275;
+    border-bottom: 2px solid #AFD275;
+    color: #fff;
+}
+
 #main-menu {
     position: absolute;
     top: 40px;
     left: 30%;
+    color: #7E685A
 }
 
 #main-menu li {
@@ -46,26 +53,18 @@ h2 {
     list-style-type: none;
     margin: 0 5px 0 100px;
     font-size: 20px;
-    color: #7E685A;
     padding: 17px;
 }
 
 #main-menu li:hover {
-    color: #fff;
     background-color: #C2B9B0;
     border-top: 2px solid #E7717D;
     border-bottom: none;
 }
 
-#main-menu a {
+#main-menu li a {
     text-decoration: none;
     color: inherit;
-}
-
-.current {
-    color: #fff;
-    background-color: #AFD275;
-    border-bottom: 2px solid #AFD275;
 }
 
 /* Main image */
@@ -199,7 +198,7 @@ br {
 #under-image {
     height: 200px;
     width: 210px;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
 }
 
 /* More info button */
@@ -211,12 +210,11 @@ br {
 
 #online-cooking a {
     text-decoration: none;
-    color: inherit;
     font-size: 25px;
     font-weight: 900;
     font-family: Raleway, sans-serif;
-    background-color: #C2B9B0;
     border: 1px solid #7E685A;
+    background-color: #f3e7e7;
     border-radius: 30px;
     color: #7E685A;
     height: 40px;
