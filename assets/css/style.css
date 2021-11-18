@@ -202,14 +202,19 @@ br {
     margin-bottom: 20px;
 }
 
-/* Online cooking button */
+/* More info button */
 #online-cooking {
     clear: both;
     height: 100px;
     width: 100%;
 }
 
-#online-cooking button {
+#online-cooking a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#online-cooking a button {
     font-size: 25px;
     font-weight: 900;
     font-family: Raleway, sans-serif;
@@ -222,22 +227,15 @@ br {
     display: block;
     margin: 10px auto;
     transition: all 200ms ease-in-out;
+    cursor: pointer;
     /* Learned from SheCodes basic course */
-}
-
-#online-cooking button a {
-    text-decoration: none;
-    color: inherit;
 }
 
 #online-cooking button:hover {
     background: #9ecc54;
-    ;
     border: 1px solid #9ecc54;
-    ;
     color: #fff;
-    box-shadow: 9px 9px 10px #acaaaa;
-    /* Learned from SheCodes basic course */
+    box-shadow: 9px 9px 10px #acaaaa;   /* Learned from SheCodes basic course */
 }
 
 /* Hot topics */
@@ -855,7 +853,7 @@ footer {
         padding: 20px 10px;
     }
 
-    #online-cooking button {
+    #online-cooking a button {
         font-size: 20px;
         width: 70%;
     }
