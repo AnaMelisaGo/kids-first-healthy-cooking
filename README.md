@@ -238,7 +238,7 @@ I want to thank all these people and all these sites and applications who helped
 
 - Love Running
 
-    I used as a guide some of the codes I learned during the development of the Love Running website.
+    I used as a guide some of the codes I learned during the development of the Love Running website. I even used the url provided here for the action attribute of my project's sign up form.
 
 - [MDN WEB DOCS](https://developer.mozilla.org/en-US/)
 
@@ -304,6 +304,51 @@ This project was written in HTML and CSS. It is hosted on Github.
 
 <br>
 
-# Testing
+# My Code
 
-- I tested on different browsers like Google Chrome, Mozilla Firefox, and Safari
+## Bugs and Fix
+
+- Centering with `margin: 0 auto;` was not working for me in the beginning. Instead, I used relative/ absolute positioning to almost every element of the website, like the positioning of the "More info" button from the home page . But when testing it on other devices (responsive layout), it wasn't working well. I found out that setting the display into `block` and setting the `width` too, that is when `margin: 0 auto` works fine.
+
+- I notice a white gap in between the navigation bar and the image of Online class page. I fix it by resizing the "KIDS first" logo. It was pushing the image downwards.
+
+- When I deployed my webpage for the first time with my mentor, we found out all the images were broken. I was using absolute file path by putting a slash at the beginning of each url link. I fixed every image link right away.
+
+- When trying to open all the pages and their responsiveness, I found out that the footer of some of the HTML files in my project was not fixed at the bottom of the screen since it does not have enough content to push it downwards, like the kcorner.html and signup.html. I tried the `position: fixed`, `bottom: 0`, with `@media query and (min-height of 800px)`. But then it wasn't working well in other devices because it stays fixed at the bottom and in some devices it covers the content of the page. So I had to go back to my notes where I found the best solution. I changed the layout style by setting the height of the div container according to viewport height (vh) instead of using pixels (px).
+
+- The only way I found out for the footer to `display: inline` so I can center the links with `margin: 0 auto` was displaying them with flex. I tried `display: inline-block` but it wasn’t working at all.
+
+- I tried the sign up form in different devices and I found out that it overflows in small devices, especially when rotating the device. I fixed it by setting `overflow: scroll`.
+
+<br>
+
+## Testing
+
+I deployed my website and tested it several times on different browsers I have on my computer, like Google Chrome, Mozilla Firefox, and Safari, and it's working perfectly fine. I even tested on another display like the tv or another monitor, it went very well.
+
+<br>
+
+All links work, they all open on another tab when clicked. The navigation bar, footer, and all the images are showing too. I also tested all the buttons if the url works and they all show the section of the webpage intended to.
+
+<br>
+
+The form for Signing up is also working. I tested the inputs that require a value and it's working well. The google form of Contact Us page of the website is working as well.
+
+<br>
+
+I tested the responsive layout on different devices, lengths, and widths. Everything is working smoothly just as I visioned it.
+
+<br>
+
+## Notes
+
+I added the Contact Us page at the last minute. It looked as if the website was lacking a part where anyone or even interested families could ask questions or give some feedback. I could have used the text area element but I want to demonstrate that I can use another way of creating forms like the Google form. It's easier to build and I already made more forms like this in the past. I want to showcase my knowledge in Excel too, since google form is linked into a google sheet to record all the users' responses. 
+
+There is one device that my responsive design doesn't work well with. I found a bug in my homepage when trying the website in Ipad pro, but all other devices seem to work well. 
+
+I couldn't style the home page just as I wanted, especially the "Benefits of cooking with kids" section. The positioning was messing with the contents a lot and solving the problem was consuming all the time I had in finishing the project. If I had more time maybe I could have come up with a better solution. But I’m happy with how it came out in the end.
+ 
+I created a separate file for testing my codes. I put the content and style it in that file, then I copy the code to the original project file. I don't know if it's a good or bad idea. At first, I thought it's the best way for me to practice coding and to test the code with dev tools without messing up the real project. But then it took me long hours before I complete a small section. So when I got used to Gitpod and into coding my ideas, I code and edit from the project file itself.
+
+I'm happy with the outcome. But I'm open to comments and collaborations to improve my project and also to help me grow more as a developer. We can sometimes fall, but we try to stand tall hand in hand.
+
