@@ -352,3 +352,21 @@ I created a separate file for testing my codes. I put the content and style it i
 
 I'm happy with the outcome. But I'm open to comments and collaborations to improve my project and also to help me grow more as a developer. We can sometimes fall, but we try to stand tall hand in hand.
 
+<br>
+
+# Validator testing
+
+- No errors found when tested in the official W3C Validator.
+
+- No errors found when tested in the official W3C CSS Validator (Jigsaw).
+
+    <p>
+    <a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
+            alt="Valid CSS!" />
+    </a>
+    </p>
+
+- Accesibility
+
