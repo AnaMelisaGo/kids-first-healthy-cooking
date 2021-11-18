@@ -190,7 +190,7 @@ br {
 
 #middle-image {
     float: left;
-    height: 240px;
+    height: 200px;
     width: 260px;
     margin-left: 15%;
     margin-top: 15px;
@@ -803,7 +803,7 @@ footer {
     }
 
     #top-image {
-        height: 280px;
+        height: 300px;
         width: 260px;
     }
 
