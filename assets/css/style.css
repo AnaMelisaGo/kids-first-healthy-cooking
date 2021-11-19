@@ -832,13 +832,13 @@ footer {
     }
 
     #main-menu li {
-        font-size: 18px;
-        padding: 12px 5px;
+        font-size: 19px;
+        padding: 11px 5px;
         margin: 0 2px 0 5px;
     }
 
     #main-menu li:hover {
-        padding: 12px 5px 10px;
+        padding: 11px 5px 10px;
     }
 
     #head-text h2 {
@@ -873,6 +873,7 @@ footer {
 
     #kids-corner {
         height: 60vh;
+        overflow: scroll;
     }
 
     .recipe-corner {
@@ -915,7 +916,7 @@ footer {
     }
 
     #main-menu li {
-        font-size: 15px;
+        font-size: 14px;
         padding: 14px 5px 12px;
         margin: 0 2px;
     }
@@ -956,7 +957,11 @@ footer {
     }
 
     #kids-corner {
-        height: 85vh;
+        height: 90vh;
+    }
+
+    .button-container {
+        width: 100%;
     }
 
     .procedure ol {
