@@ -333,6 +333,10 @@ footer {
     color: #9ecc54;
 }
 
+.current-contact {
+    background-color: #f3b7b7;
+}
+
 /* Cooking classes */
 #kids-cooking {
     position: relative;
