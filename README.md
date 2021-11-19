@@ -352,7 +352,7 @@ I'm happy with the outcome. But I'm open to comments and collaborations to impro
 
 # Final Result
 ## Deployment
-
+I deployed my project to Github.
 
 
 <br>
@@ -375,3 +375,4 @@ I'm happy with the outcome. But I'm open to comments and collaborations to impro
 
 ## Accesibility
 
+![Lighthouse Report](assets/images/lighthouse-accesibility.png)
