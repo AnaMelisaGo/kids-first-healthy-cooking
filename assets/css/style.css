@@ -833,12 +833,12 @@ footer {
 
     #main-menu li {
         font-size: 18px;
-        padding: 11px 5px;
+        padding: 12px 5px;
         margin: 0 2px 0 5px;
     }
 
     #main-menu li:hover {
-        padding: 11px 5px 10px;
+        padding: 12px 5px 10px;
     }
 
     #head-text h2 {
