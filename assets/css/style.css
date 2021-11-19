@@ -35,17 +35,10 @@ h2 {
 }
 
 /* Style navigation */
-.current {
-    background-color: #AFD275;
-    border-bottom: 2px solid #AFD275;
-    color: #fff;
-}
-
 #main-menu {
     position: absolute;
     top: 40px;
     left: 30%;
-    color: #7E685A
 }
 
 #main-menu li {
@@ -54,17 +47,25 @@ h2 {
     margin: 0 5px 0 100px;
     font-size: 20px;
     padding: 17px;
+    color: #7E685A;
 }
 
 #main-menu li:hover {
     background-color: #C2B9B0;
     border-top: 2px solid #E7717D;
     border-bottom: none;
+    color: #fff;
 }
 
 #main-menu li a {
     text-decoration: none;
     color: inherit;
+}
+
+.current {
+    background-color: #d5ebb3;
+    border-bottom: 2px solid #afca84;
+    color: #fff;
 }
 
 /* Main image */
@@ -745,8 +746,6 @@ footer {
     }
 
     .current {
-        color: #fff;
-        background-color: #AFD275;
         border-bottom: 2px solid #AFD275;
     }
 
