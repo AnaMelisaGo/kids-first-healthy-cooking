@@ -230,9 +230,9 @@ I want to thank all these people and all these sites and applications who helped
 
 <br>
 
-## Codes
+## Codes and tutorials
 
-- [SheCodes](https://www.shecodes.io/)
+- [SheCodes.io](https://www.shecodes.io/)
 
     My interest in coding started way back in high school. But I took another course and now I want to shift into the tech world. I started my tech journey with SheCodes before I went to Code Institute. I learned some basic knowledge of HTML, CSS, and Javascript with their basic workshops. They provided their students with some dev tools to use, such as CSS color palettes, color gradients, and much more. It's where I took the color gradient for this project's header and footer.
 
@@ -245,8 +245,6 @@ I want to thank all these people and all these sites and applications who helped
 - [W3 SCHOOLS](https://www.w3schools.com/)
 
 - [STACK OVERFLOW](https://stackoverflow.com/)
-
-- Slack
 
 <br>
 
@@ -280,21 +278,21 @@ During all these years of working with Google Drive and using Google Sheets, I g
 
 <br>
 
-## Software / App
+## Software / App used
 
 - Phone built-in photo editor: to crop large images to use it easily.
 
 - LogoMaker app: it's a phone app for free to create logos without a background.
 
-- Google form: for contact us form.
+- Google form: to build the "Contact Us" form.
 
-- Google doc: to document all my thoughts and research with or without my computer (especially during working hours). I can access my files using my phone.
+- Google doc: to document all my thoughts and research with or without my computer (especially in between my working hours). I easily access my files using my phone.
 
 - Quicktime player: to record the screen of my home page for this project's README.
 
 - [Grammarly](https://app.grammarly.com/): for grammar and spelling checks.
 
-- Google translate: to translate some content from the book recipe that I have to english.
+- Google translate: to translate some content from the recipe book that I have in my house to english.
 
 <br>
 
@@ -324,7 +322,7 @@ This project was written in HTML and CSS. It is hosted on Github.
 
 ## Testing
 
-I deployed my website and tested it several times on different browsers I have on my computer, like Google Chrome, Mozilla Firefox, and Safari, and it's working perfectly fine. I even tested on another display like the tv or another monitor, it went very well.
+I deployed my website and tested it several times on different browsers I have on my computer, like Google Chrome, Mozilla Firefox, and Safari, and it's working perfectly fine. I even tested on another display like the tv or another monitor. It went very well.
 
 <br>
 
@@ -332,7 +330,7 @@ All links work, they all open on another tab when clicked. The navigation bar, f
 
 <br>
 
-The form for Signing up is also working. I tested the inputs that require a value and it's working well. The google form of Contact Us page of the website is working as well.
+The form for Signing up is also working. I tested the inputs that require a certain value and it's working well. The google form of Contact Us page of the website is working as well.
 
 <br>
 
@@ -344,8 +342,6 @@ I tested the responsive layout on different devices, lengths, and widths. Everyt
 
 I added the Contact Us page at the last minute. It looked as if the website was lacking a part where anyone or even interested families could ask questions or give some feedback. I could have used the text area element but I want to demonstrate that I can use another way of creating forms like the Google form. It's easier to build and I already made more forms like this in the past. I want to showcase my knowledge in Excel too, since google form is linked into a google sheet to record all the users' responses. 
 
-There is one device that my responsive design doesn't work well with. I found a bug in my homepage when trying the website in Ipad pro, but all other devices seem to work well. 
-
 I couldn't style the home page just as I wanted, especially the "Benefits of cooking with kids" section. The positioning was messing with the contents a lot and solving the problem was consuming all the time I had in finishing the project. If I had more time maybe I could have come up with a better solution. But I’m happy with how it came out in the end.
  
 I created a separate file for testing my codes. I put the content and style it in that file, then I copy the code to the original project file. I don't know if it's a good or bad idea. At first, I thought it's the best way for me to practice coding and to test the code with dev tools without messing up the real project. But then it took me long hours before I complete a small section. So when I got used to Gitpod and into coding my ideas, I code and edit from the project file itself.
@@ -354,13 +350,20 @@ I'm happy with the outcome. But I'm open to comments and collaborations to impro
 
 <br>
 
-# Validator testing
+# Final Result
+## Deployment
+
+
+
+<br>
+
+## Validator testing
 
 - No errors found when tested in the official W3C Validator.
 
 - No errors found when tested in the official W3C CSS Validator (Jigsaw).
 
-    <p>
+    <p align="center">
     <a href="https://jigsaw.w3.org/css-validator/check/referer">
         <img style="border:0;width:88px;height:31px"
             src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
@@ -368,5 +371,7 @@ I'm happy with the outcome. But I'm open to comments and collaborations to impro
     </a>
     </p>
 
-- Accesibility
+<br>
+
+## Accesibility
 

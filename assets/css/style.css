@@ -435,22 +435,20 @@ footer {
     flex-direction: row;
     padding: 0 0 20px;
     width: 70%;
-    margin: 0 auto;
-}
-
-.button-container a {
-    margin: 20px auto;
-    text-decoration: none;
+    margin: 0 auto; 
 }
 
 .topic-button {
-    width: 200px;
+    font-size: 20px;
+    margin: 0 auto;
+    text-decoration: none;
+    width: 150px;
     height: 100px;
     padding: 20px;
+    line-height: 50px;
     border: 1px solid #7E685A;
     border-radius: 4px;
-    color: #7E685A;
-    font-size: 15px;
+    color: #5D5C61;
     display: block;
     /* Learned from SheCodes basic course */
     transition: all 200ms ease-in-out;
@@ -465,22 +463,26 @@ footer {
     cursor: pointer;
 }
 
+.topic-button p, .topic-button h3 {
+    text-align: center;
+}
+
 .topic-button p {
-    font-size: 30px;
+    font-size: 40px;
 }
 
 /* Recipes */
 .active {
-    background-color: #ffb5b5;
-    border: 1px solid #ffb5b5;
+    background-color: #f3b7b7;
+    border: 1px solid #f3b7b7;
     /* Learned from SheCodes basic course */
     box-shadow: 9px 9px 10px #acaaaa;
 }
 
 .not-active {
     background-color: transparent;
-    border: 1px solid #acaaaa;
-    color: #acaaaa;
+    border: 1px solid #c0bdbd;
+    color: #c0bdbd;
 }
 
 #kids-recipes {
@@ -874,7 +876,7 @@ footer {
     }
 
     #kids-corner {
-        height: 500px;
+        height: 60vh;
     }
 
     .recipe-corner {
@@ -958,7 +960,7 @@ footer {
     }
 
     #kids-corner {
-        height: 600px;
+        height: 85vh;
     }
 
     .procedure ol {
