@@ -359,7 +359,7 @@ I'm happy with the outcome. But I'm open to comments and collaborations to impro
 
 ## Validator testing
 
-- No errors found when tested in the official W3C Validator.
+- No errors found when tested in the official W3C HTML Validator.
 
 - No errors found when tested in the official W3C CSS Validator (Jigsaw).
 
