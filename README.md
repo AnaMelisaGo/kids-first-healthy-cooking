@@ -7,7 +7,7 @@ Created especially for the little ones in the house, and of course, for the whol
 <br/>
 
 ## Introduction
-__KIDS *first*__ offer healthy online cooking classes aimed to teach basic cooking techniques to the little ones at home and of course to the whole family as well.
+__KIDS *first*__ offer healthy online cooking classes aimed to teach basic cooking techniques to all kids and of course to the whole family as well.
 
 Cooking is an art. It's a daily house choir that can be learned by doing. Teaching the art of cooking from an early age with the help of these online cooking classes can promote creativity, a healthy and nutritious diet, cleanliness, self-confidence, and all other good benefits that cooking can bring to the whole family, especially to the kids in the house.
 
