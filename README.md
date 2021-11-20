@@ -354,10 +354,6 @@ During all these years of working with Google Drive and using Google Sheets, I g
 
     https://stackoverflow.com/questions/20565644/how-to-link-to-a-div-on-another-page
 
-- Vertical align of flex elements
-    
-    https://stackoverflow.com/questions/5150411/align-divs-to-the-bottom-of-their-container
-
 - To center an image in md files
 
     https://stackoverflow.com/questions/12090472/how-do-i-center-an-image-in-the-readme-md-file-on-github

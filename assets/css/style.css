@@ -18,6 +18,10 @@ h2 {
     font-family: "Roboto Condensed", sans-serif;
 }
 
+br {
+    height: 26px;
+}
+
 /* Style header */
 #kids-header {
     height: 100px;
@@ -37,7 +41,7 @@ h2 {
 #main-menu {
     position: absolute;
     top: 40px;
-    left: 30%;
+    left: 25%;
 }
 
 #main-menu li {
@@ -45,7 +49,7 @@ h2 {
     list-style-type: none;
     margin: 0 5px 0 100px;
     font-size: 20px;
-    padding: 17px;
+    padding: 17px 0;
     color: #303030;
 }
 
@@ -58,6 +62,7 @@ h2 {
 #main-menu li a {
     text-decoration: none;
     color: inherit;
+    padding: 17px;
 }
 
 .current {
@@ -78,6 +83,7 @@ h2 {
     background: url("../images/kids-healthy-cooking.jpg") no-repeat center center;
     width: 100%;
     height: 600px;
+    background-size: cover;
 
     animation-name: image-zoom;
     animation-duration: 5s;
@@ -167,10 +173,6 @@ h2 {
     float: right;
     margin-right: 10%;
     border-right: 3px solid #ffb5b5;
-}
-
-br {
-    height: 26px;
 }
 
 .benefit-image {
@@ -280,39 +282,40 @@ br {
 footer {
     /* From SheCodes color palletes */
     background: radial-gradient(circle at 10% 20%, rgb(248, 213, 214) 0%, rgb(218, 216, 192) 90%);
+    display: block;
+    width: 100%;
+}
+
+.social-media ul {
+    width: 60%;
     /* From stackoverflow */
     display: flex;
-    width: 100%;
-    /* From stackoverflow */
-    align-items: flex-end;
+    margin: 0 auto;
+}
+
+.social-media li {
+    margin: 0 auto;
+    list-style-type: none;
+    padding: 10px;
+}
+
+.social-media li a {
+    font-size: 40px;
+    color: #7E685A;
+    padding: 10px;
+}
+
+.social-media li a:hover {
+    color: #9ecc54;
 }
 
 .social-media p {
     color: #7E685A;
     font-size: 15px;
     padding: 0 10px 5px;
-    width: 30%;
+    text-align: center;
 }
 
-.social-media ul {
-    width: 40%;
-    display: flex;
-}
-
-.social-media li {
-    margin: 0 auto;
-    padding: 6px;
-    list-style-type: none;
-}
-
-.social-media li a {
-    font-size: 40px;
-    color: #7E685A;
-}
-
-.social-media li a:hover {
-    color: #9ecc54;
-}
 
 /* Contact Us */
 #contact-us {
@@ -571,6 +574,22 @@ footer {
     font-size: 15px;
 }
 
+.go-top {
+    position: fixed;
+    bottom: 15%;
+    left: 85%;
+    text-decoration: none;
+    color: inherit;
+    padding: 10px 20px;
+    background: rgba(214, 245, 166, .75);
+    border-radius: 10px;
+
+}
+
+.clear-footer {
+    clear: both;
+}
+
 /* Tips */
 .tips-image {
     float: right;
@@ -773,12 +792,16 @@ footer {
 @media screen and (max-width: 1000px) {
     #main-menu {
         top: 55px;
-        left: 30%;
+        left: 25%;
     }
 
     #main-menu li {
         padding: 10px;
-        margin: 0 5px 0 15px;
+        margin: 0 5px 0 14px;
+    }
+
+    #main-menu li a {
+        padding: 10px;
     }
 
     .current {
@@ -846,12 +869,16 @@ footer {
     }
 
     #main-menu li {
-        font-size: 19px;
-        padding: 11px 5px;
+        font-size: 18px;
+        padding: 11px 0;
         margin: 0 2px 0 5px;
     }
 
     #main-menu li:hover {
+        padding: 11px 0 10px;
+    }
+
+    #main-menu li a {
         padding: 11px 5px 10px;
     }
 
@@ -886,7 +913,10 @@ footer {
     }
 
     #kids-corner {
-        height: 60vh;
+        height: 100vh;
+    }
+
+    .kids-flow {
         overflow: scroll;
     }
 
@@ -930,14 +960,17 @@ footer {
     }
 
     #main-menu li {
-        font-size: 15px;
-        padding: 14px 5px 12px;
+        font-size: 14px;
+        padding: 14px 0 12px;
         margin: 0 2px;
     }
 
     #main-menu li:hover {
-        padding: 14px 5px 11px;
+        padding: 14px 0 11px;
+    }
 
+    #main-menu li a {
+        padding: 14px 5px 11px;
     }
 
     .heading {
