@@ -681,10 +681,11 @@ footer {
     width: 100%;
     position: relative;
     overflow: scroll;
+    background-size: cover;
 }
 
 #cooking-signup {
-    background-color: rgba(126, 104, 90, .7);
+    background-color: rgba(126, 104, 90, .85);
     width: 65%;
     margin: 30px;
     padding: 40px;
@@ -711,7 +712,7 @@ footer {
     width: 70%;
     height: 20px;
     background: transparent;
-    border: 1px solid #acaaaa;
+    border: 1px solid #ddd9d9;
     border-radius: 3px;
     margin: 5px 0 20px;
     display: inline-block;
@@ -723,7 +724,7 @@ footer {
 }
 
 .join-cooking {
-    background: #C2B9B0;
+    background: #9ecc54;
     font-size: 20px;
     color: #5D5C61;
     margin: 25px auto;
@@ -731,15 +732,24 @@ footer {
     text-align: center;
     border-radius: 3px;
     display: block;
+    transition: all 200ms ease-in-out;
 }
 
 .join-cooking:hover {
-    background: #9ecc54;
+    box-shadow: 9px 9px 10px #1b1a1a;
     color: #fff;
     cursor: pointer;
 }
 
 /* RESPONSIVE DESIGN */
+/* For devices with short length */
+@media screen and (max-height: 700px) {
+    .cooking-form {
+        overflow: scroll;
+    }
+    
+}
+
 /* For devices lesser than 1300 */
 @media screen and (max-width: 1300px) {
     #main-menu li {
