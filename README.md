@@ -404,8 +404,8 @@ Here is the link to my project: [Kids first Online cooking class](https://anamel
 ## Accesibility
 I run the Lighthouse in the dev tools and this is the final result.
 
+<br>
+
 <p align="center">
-
-![Lighthouse Report](assets/images/lighthouse-report.png)
-
+<img src="assets/images/lighthouse-report.png" alt="The lighthouse report">
 </p>
