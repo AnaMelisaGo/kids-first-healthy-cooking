@@ -617,7 +617,7 @@ footer {
 }
 
 .tips-area div h4 {
-    font-family: "Roboto Condensed", sans-serif;
+    font-size: 20px;
 }
 
 .tips-image~div {
@@ -672,13 +672,12 @@ footer {
 
 .daily-food li h5 {
     font-size: 20px;
-    font-weight: 300;
+    font-weight: 900;
     text-decoration: underline;
 }
 
 .disorder-area {
-    width: 90%;
-    margin: 20px auto;
+    margin: 0 10px;
 }
 
 .disorder-area h4 {
