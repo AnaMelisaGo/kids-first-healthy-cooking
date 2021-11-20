@@ -54,7 +54,7 @@ https://user-images.githubusercontent.com/86141994/141697283-388756d7-d2ac-40ee-
 <br>
 
 ### Navigation Bar
-<img src="assets/images/nav-bar.png" alt="Kids first website navigation bar">
+<img src="assets/images/kids-first-header.png" alt="Kids first website navigation bar">
 
 <br>
 
@@ -148,7 +148,7 @@ This page is where interested families can sign up for the online cooking classe
 ## Footer
 The footer is where all the social media networks lie. When the mouse pointer is on top of the icon it changes to a light green color to match the color scheme of the page. I also added an icon to contact us. I added my name too, as the creator of this website.
 
-<img src="assets/images/footer-buttons.png" alt="Kids first footer">
+<img src="assets/images/footer-icons.png" alt="Kids first footer">
 
 <br>
 
