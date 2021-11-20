@@ -2,9 +2,14 @@
 
 # Online Cooking Class
 Created especially for the little ones in the house, and of course, for the whole family. It's healthy, free, fun, and friendly.
+
 <br/>
-<br/>
-<br/>
+
+## Website link
+
+Here is the link: [Kids first Online cooking class](https://anamelisago.github.io/kids-first-healthy-cooking/)
+
+<br>
 
 ## Introduction
 __KIDS *first*__ offer healthy online cooking classes aimed to teach basic cooking techniques to all kids and of course to the whole family as well.
@@ -17,22 +22,8 @@ Cooking in our very own cozy little kitchen all together with our kids, helping 
 <br>
 
 ## Origin
-My first idea for my first portfolio project was a history webpage just as the assessment guide suggested, which I thought was easier. It’s about __Vikings__ and their history.
 
-<p align="center">
-<img src="assets/images/first-idea.jpg" alt="My first project idea" width="500" height="300">
-</p>
-<br/>
-
-When I talked to my mentor, he advised me it’s better to come up with an original idea, but he said the history project is a good one too. I love challenging myself. My mind was enlightened with lots of ideas, so I changed to a __Health guide for kids__ webpage. But then, these two ideas are very difficult ones because it has a lot of content, it could take a lot of searching, that can consume all the time I have, which I could spend it in coding instead. I even designed a logo for it but I didn't use it.
-
-<p align="center">
-<img src="assets/images/first-logo.png" alt="My first logo for the project" height="300">
-</p>
-<br/>
-<br/>
-
-After giving it a lot of thought, finally I come up with the best one for my project. I found some books in my house that I purchased when my child was born. It’s a series of recipe books for 6-month-old babies up to 5-year-old toddlers. And that’s how I came up with the __Online cooking with kids__ website. I want to show and promote cooking healthy food with kids and to teach them the basics of cooking. It's easier to build. I also kept the website’s name "__KIDS *first*__" and I added the recipes from the recipe books and some tips too for the kids as an extra content to make the webpage more dynamic and engaging. As an example, my child loves the handwashing video I put. Ever since we watch it, she always remembers the video every time she washes her hands. So I made a wireframe using Balsamiq to sketch some of my ideas and it served as a guide in shaping the website.
+I had a lot of ideas for this project. And after giving it a lot of thought, finally I come up with the best one for my project. I found some books in my house that I purchased when my child was born. It’s a series of recipe books for 6-month-old babies up to 5-year-old toddlers. And that’s how I came up with the __Online cooking with kids__ website. I want to show and promote cooking healthy food with kids and to teach them the basics of cooking. It's easier to build. I also kept the website’s name "__KIDS *first*__" and I added the recipes from the recipe books and some tips too for the kids as an extra content to make the webpage more dynamic and engaging. As an example, my child loves the handwashing video I put. Ever since we watch it, she always remembers the video every time she washes her hands. So I made a wireframe using Balsamiq to sketch some of my ideas and it served as a guide in shaping the website.
 <br>
 <p align="center">
 <img src="assets/images/kids-first-wireframe.png" alt="My webpage wireframe" width="400" height="300">
@@ -156,6 +147,114 @@ The footer is where all the social media networks lie. When the mouse pointer is
 It's a page where parents or anyone can send any questions, comments or suggestions. It helps in solving any doubts, or including any new content they suggest like a new recipe, new tips or anything about the website’s improvement.
 
 <br>
+<br>
+# Technology
+
+This project is written in HTML and CSS. It is hosted on Github.
+
+<br>
+
+# Code
+
+## Bugs and Fixes
+
+- Centering with `margin: 0 auto;` was not working for me in the beginning. Instead, I used relative/ absolute positioning to almost every element of the website, like the positioning of the "More info" button from the home page . But when testing it on other devices (responsive layout), it wasn't working well. I found out that setting the display into `block` and setting the `width` too, that is when `margin: 0 auto` works fine.
+
+- I notice a white gap in between the navigation bar and the image of Online class page. I fix it by resizing the "KIDS first" logo. It was pushing the image downwards.
+
+- When I deployed my webpage for the first time with my mentor, we found out all the images were broken. I was using absolute file path by putting a slash at the beginning of each url link. I fixed every image link right away.
+
+- When trying to open all the pages and their responsiveness, I found out that the footer of some of the HTML files in my project was not fixed at the bottom of the screen since it does not have enough content to push it downwards, like the kcorner.html and signup.html. I tried the `position: fixed`, `bottom: 0`, with `@media query and (min-height of 800px)`. But then it wasn't working well in other devices because it stays fixed at the bottom and in some devices it covers the content of the page. So I had to go back to my notes where I found the best solution. I changed the layout style by setting the height of the div container according to viewport height (vh) instead of using pixels (px).
+
+- The only way I found out for the footer to display the icons next to each other and center them with `margin: 0 auto` was displaying them with flex. I tried `display: inline-block` but it wasn’t working at all.
+
+- I tried the sign up form in different devices and I found out that it overflows in small devices, especially when rotating the device. I fixed it by setting `overflow: scroll`.
+
+- When I run the HTML validator test I found out that button and anchor cannot be nested inside of each other. I had to change my layout and styles. I managed to bring it back as it were before. We learn from our mistakes.
+
+- When I tested the lighthouse for the first time, the accesibility score was so low. The report says that the foreground and contrast color doesn't match and a mismatch in aria. I managed to bring up the score by changing the colors according to the contrast suggestions, and to deactivate an extension that was messing up with the lighthouse report.
+
+<br>
+
+## Testing
+
+I deployed my website and tested it several times on different browsers (Google Chrome, Mozilla Firefox, and Safari) and it's working perfectly fine. I even tested on another display like the tv or another monitor. It went very well.
+
+<br>
+
+All links work, they all open on another tab when clicked. The navigation bar, footer, and all the images are showing too. I also tested all the buttons if the url works and they all show the section of the webpage intended to go to.
+
+<br>
+
+The form for Signing up is also working. I tested the inputs that require a certain value and it's working well. The google form of Contact Us page of the website is working as well.
+
+<br>
+
+I tested the responsive layout on different devices, lengths, and widths. Everything is working smoothly just as I visioned it.
+
+<br>
+
+## Bugs Unfixed
+No bugs were left unfixed.
+
+<br>
+
+## Notes
+
+I added the Contact Us page at the last minute. It looked as though the website was lacking a part where anyone or interested families could ask questions or give some feedback. I could have used the text area element but I want to demonstrate that I can use another way of creating forms like the Google form. It's easier to build and I already made more forms like this in the past. I want to showcase my knowledge in Excel too, since google form is linked into a google sheet to record all the users' responses. I use google sheets in my daily basis, especially at work.
+
+I couldn't style the home page just as I wanted, especially the "Benefits of cooking with kids" section. The positioning was messing with the contents a lot and solving the problem was consuming all the time I had in finishing the project. If I had more time maybe I could have come up with a better solution. But I’m happy with how it came out in the end.
+ 
+I created a separate file for testing my codes. I put the content and style it in that file, then I copy the code to the original project file. I don't know if it's a good or bad idea. At first, I thought it's the best way for me to practice coding and to test the code with dev tools without messing up the real project. But then it took me long hours before I complete a small section. So when I got used to Gitpod and into coding my ideas, I code and edit from the project file itself.
+
+I'm happy with the outcome. But I'm open to comments and collaborations to improve my project and also to help me grow more as a developer. We can sometimes fall, but we try to stand tall hand in hand.
+
+<br>
+
+# Final Result
+## Deployment
+
+I deployed this website to Github.
+
+<br>
+
+### Steps to deploy a repository to Github
+
+1. Open the repository.
+2. Go to settings from the menu just under the repository name.
+3. On the left hand side of the settings, click Pages.
+4. In the source section, select from the dropdown menu the branch option "main".
+5. Save it by clicking the save button.
+6. Once it's done, Github provides a link to open the site in a browser.
+
+<br>
+<br>
+
+## Validator testing
+
+- No errors found when tested in the official W3C HTML Validator.
+
+- No errors found when tested in the official W3C CSS Validator (Jigsaw).
+
+    <p align="center">
+    <a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
+            alt="Valid CSS!" />
+    </a>
+    </p>
+
+<br>
+
+## Accesibility
+I run the Lighthouse in the dev tools and this is the final result.
+
+<br>
+
+<p align="center">
+<img src="assets/images/lighthouse-report.png" alt="The lighthouse report">
+</p>
+
 <br>
 
 # Credits
@@ -297,115 +396,3 @@ During all these years of working with Google Drive and using Google Sheets, I g
 - Google translate: to translate some content from the recipe book that I have in my house to english.
 
 <br>
-
-# Technology
-
-This project is written in HTML and CSS. It is hosted on Github.
-
-<br>
-
-# My Code
-
-## Bugs and Fixes
-
-- Centering with `margin: 0 auto;` was not working for me in the beginning. Instead, I used relative/ absolute positioning to almost every element of the website, like the positioning of the "More info" button from the home page . But when testing it on other devices (responsive layout), it wasn't working well. I found out that setting the display into `block` and setting the `width` too, that is when `margin: 0 auto` works fine.
-
-- I notice a white gap in between the navigation bar and the image of Online class page. I fix it by resizing the "KIDS first" logo. It was pushing the image downwards.
-
-- When I deployed my webpage for the first time with my mentor, we found out all the images were broken. I was using absolute file path by putting a slash at the beginning of each url link. I fixed every image link right away.
-
-- When trying to open all the pages and their responsiveness, I found out that the footer of some of the HTML files in my project was not fixed at the bottom of the screen since it does not have enough content to push it downwards, like the kcorner.html and signup.html. I tried the `position: fixed`, `bottom: 0`, with `@media query and (min-height of 800px)`. But then it wasn't working well in other devices because it stays fixed at the bottom and in some devices it covers the content of the page. So I had to go back to my notes where I found the best solution. I changed the layout style by setting the height of the div container according to viewport height (vh) instead of using pixels (px).
-
-- The only way I found out for the footer to display the icons next to each other and center them with `margin: 0 auto` was displaying them with flex. I tried `display: inline-block` but it wasn’t working at all.
-
-- I tried the sign up form in different devices and I found out that it overflows in small devices, especially when rotating the device. I fixed it by setting `overflow: scroll`.
-
-- When I run the HTML validator test I found out that button and anchor cannot be nested inside of each other. I had to change my layout and styles. I managed to bring it back as it were before. We learn from our mistakes.
-
-- When I tested the lighthouse for the first time, the accesibility score was so low. The report says that the foreground and contrast color doesn't match and a mismatch in aria. I managed to bring up the score by changing the colors according to the contrast suggestions, and to deactivate an extension that was messing up with the lighthouse report.
-
-<br>
-
-## Testing
-
-I deployed my website and tested it several times on different browsers I have on my computer, like Google Chrome, Mozilla Firefox, and Safari, and it's working perfectly fine. I even tested on another display like the tv or another monitor. It went very well.
-
-<br>
-
-All links work, they all open on another tab when clicked. The navigation bar, footer, and all the images are showing too. I also tested all the buttons if the url works and they all show the section of the webpage intended to go to.
-
-<br>
-
-The form for Signing up is also working. I tested the inputs that require a certain value and it's working well. The google form of Contact Us page of the website is working as well.
-
-<br>
-
-I tested the responsive layout on different devices, lengths, and widths. Everything is working smoothly just as I visioned it.
-
-<br>
-
-## Bugs Unfixed
-No bugs were left unfixed.
-
-<br>
-
-## Notes
-
-I added the Contact Us page at the last minute. It looked as though the website was lacking a part where anyone or interested families could ask questions or give some feedback. I could have used the text area element but I want to demonstrate that I can use another way of creating forms like the Google form. It's easier to build and I already made more forms like this in the past. I want to showcase my knowledge in Excel too, since google form is linked into a google sheet to record all the users' responses. I use google sheets in my daily basis, especially at work.
-
-I couldn't style the home page just as I wanted, especially the "Benefits of cooking with kids" section. The positioning was messing with the contents a lot and solving the problem was consuming all the time I had in finishing the project. If I had more time maybe I could have come up with a better solution. But I’m happy with how it came out in the end.
- 
-I created a separate file for testing my codes. I put the content and style it in that file, then I copy the code to the original project file. I don't know if it's a good or bad idea. At first, I thought it's the best way for me to practice coding and to test the code with dev tools without messing up the real project. But then it took me long hours before I complete a small section. So when I got used to Gitpod and into coding my ideas, I code and edit from the project file itself.
-
-I'm happy with the outcome. But I'm open to comments and collaborations to improve my project and also to help me grow more as a developer. We can sometimes fall, but we try to stand tall hand in hand.
-
-<br>
-
-# Final Result
-## Deployment
-
-I deployed this website to Github.
-
-<br>
-
-### Steps to deploy a repository to Github
-
-1. Open the repository.
-2. Go to settings from the menu just under the repository name.
-3. On the left hand side of the settings, click Pages.
-4. In the source section, select from the dropdown menu the branch option "main".
-5. Save it by clicking the save button.
-6. Once it's done, Github provides a link to open the site in a browser.
-
-<br>
-
-### Website link
-
-Here is the link to my project: [Kids first Online cooking class](https://anamelisago.github.io/kids-first-healthy-cooking/)
-
-<br>
-
-## Validator testing
-
-- No errors found when tested in the official W3C HTML Validator.
-
-- No errors found when tested in the official W3C CSS Validator (Jigsaw).
-
-    <p align="center">
-    <a href="https://jigsaw.w3.org/css-validator/check/referer">
-        <img style="border:0;width:88px;height:31px"
-            src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
-            alt="Valid CSS!" />
-    </a>
-    </p>
-
-<br>
-
-## Accesibility
-I run the Lighthouse in the dev tools and this is the final result.
-
-<br>
-
-<p align="center">
-<img src="assets/images/lighthouse-report.png" alt="The lighthouse report">
-</p>
