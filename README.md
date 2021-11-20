@@ -306,7 +306,7 @@ This project is written in HTML and CSS. It is hosted on Github.
 
 # My Code
 
-## Bugs and Fix
+## Bugs and Fixes
 
 - Centering with `margin: 0 auto;` was not working for me in the beginning. Instead, I used relative/ absolute positioning to almost every element of the website, like the positioning of the "More info" button from the home page . But when testing it on other devices (responsive layout), it wasn't working well. I found out that setting the display into `block` and setting the `width` too, that is when `margin: 0 auto` works fine.
 
@@ -344,7 +344,7 @@ I tested the responsive layout on different devices, lengths, and widths. Everyt
 
 <br>
 
-## Bus Unfixed
+## Bugs Unfixed
 No bugs were left unfixed.
 
 <br>
