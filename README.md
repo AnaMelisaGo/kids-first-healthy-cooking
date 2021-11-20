@@ -284,6 +284,8 @@ During all these years of working with Google Drive and using Google Sheets, I g
 
 - LogoMaker app: it's a phone app for free to create logos without a background.
 
+- Balsamiq Wireframes
+
 - Google form: to build the "Contact Us" form.
 
 - Google doc: to document all my thoughts and research with or without my computer (especially in between my working hours). I easily access my files using my phone.
