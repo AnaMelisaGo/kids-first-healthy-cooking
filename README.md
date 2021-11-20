@@ -298,7 +298,7 @@ During all these years of working with Google Drive and using Google Sheets, I g
 
 # Technology
 
-This project was written in HTML and CSS. It is hosted on Github.
+This project is written in HTML and CSS. It is hosted on Github.
 
 <br>
 
@@ -338,6 +338,11 @@ I tested the responsive layout on different devices, lengths, and widths. Everyt
 
 <br>
 
+## Bus Unfixed
+No bugs were left unfixed.
+
+<br>
+
 ## Notes
 
 I added the Contact Us page at the last minute. It looked as if the website was lacking a part where anyone or even interested families could ask questions or give some feedback. I could have used the text area element but I want to demonstrate that I can use another way of creating forms like the Google form. It's easier to build and I already made more forms like this in the past. I want to showcase my knowledge in Excel too, since google form is linked into a google sheet to record all the users' responses. 
@@ -352,8 +357,9 @@ I'm happy with the outcome. But I'm open to comments and collaborations to impro
 
 # Final Result
 ## Deployment
-I deployed my project to Github.
-
+I deployed my project on Github.
+- add steps how to deploy on github
+- put the site url
 
 <br>
 
@@ -375,4 +381,7 @@ I deployed my project to Github.
 
 ## Accesibility
 
-![Lighthouse Report](assets/images/lighthouse-accesibility.png)
+<p align="center">
+
+![Lighthouse Report](assets/images/lighthouse-report.png)
+</p>
