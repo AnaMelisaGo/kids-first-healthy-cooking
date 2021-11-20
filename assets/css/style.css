@@ -21,7 +21,7 @@ h2 {
 /* Style header */
 #kids-header {
     height: 100px;
-    /* From SheCodes color gradients */
+    /* From SheCodes (https://www.shecodes.io/) color gradients */
     background: radial-gradient(circle at 10% 20%, rgb(248, 213, 214) 0%, rgb(243, 242, 229) 90%);
     position: relative;
 }
