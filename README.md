@@ -24,7 +24,7 @@ My first idea for my first portfolio project was a history webpage just as the a
 </p>
 <br/>
 
-When I talked to my mentor, he advised me it’s better to come up with an original idea, but the history project is a good one too. My mind was enlightened, so I changed the idea to a __Health guide for kids__ webpage. But then, these two ideas are very difficult ones because it has a lot of content, it could take a lot of searching, that can consume all the time I have, which I could spend it in coding instead. I even designed a logo for it but I didn't use it.
+When I talked to my mentor, he advised me it’s better to come up with an original idea, but he said the history project is a good one too. I love challenging myself. My mind was enlightened with lots of ideas, so I changed to a __Health guide for kids__ webpage. But then, these two ideas are very difficult ones because it has a lot of content, it could take a lot of searching, that can consume all the time I have, which I could spend it in coding instead. I even designed a logo for it but I didn't use it.
 
 <p align="center">
 <img src="assets/images/first-logo.png" alt="My first logo for the project" height="300">
@@ -234,7 +234,7 @@ I want to thank all these people and all these sites and applications who helped
 
 - [SheCodes.io](https://www.shecodes.io/)
 
-    My interest in coding started way back in high school. But I took another course and now I want to shift into the tech world. I started my tech journey with SheCodes before I went to Code Institute. I learned some basic knowledge of HTML, CSS, and Javascript with their basic workshops. They provided their students with some dev tools to use, such as CSS color palettes, color gradients, and much more. It's where I took the color gradient for this project's header and footer.
+    My interest in coding started way back in high school. But I took another course and now I want to shift into the tech world. I started my tech journey with SheCodes before I went to Code Institute. I learned some basic knowledge of HTML, CSS, and Javascript with their basic workshop. They provided their students with some dev tools to use, such as CSS color palettes, color gradients, and much more. It's where I took the color gradient for this project's header and footer.
 
 - Love Running
 
@@ -316,9 +316,13 @@ This project is written in HTML and CSS. It is hosted on Github.
 
 - When trying to open all the pages and their responsiveness, I found out that the footer of some of the HTML files in my project was not fixed at the bottom of the screen since it does not have enough content to push it downwards, like the kcorner.html and signup.html. I tried the `position: fixed`, `bottom: 0`, with `@media query and (min-height of 800px)`. But then it wasn't working well in other devices because it stays fixed at the bottom and in some devices it covers the content of the page. So I had to go back to my notes where I found the best solution. I changed the layout style by setting the height of the div container according to viewport height (vh) instead of using pixels (px).
 
-- The only way I found out for the footer to `display: inline` so I can center the links with `margin: 0 auto` was displaying them with flex. I tried `display: inline-block` but it wasn’t working at all.
+- The only way I found out for the footer to display the icons next to each other and center them with `margin: 0 auto` was displaying them with flex. I tried `display: inline-block` but it wasn’t working at all.
 
 - I tried the sign up form in different devices and I found out that it overflows in small devices, especially when rotating the device. I fixed it by setting `overflow: scroll`.
+
+- When I run the HTML validator test I found out that button and anchor cannot be nested inside of each other. I had to change my layout and styles. I managed to bring it back as it were before. We learn from our mistakes.
+
+- When I tested the lighthouse for the first time, the accesibility score was so low. The report says that the foreground and contrast color doesn't match and a mismatch in aria. I managed to bring up the score by changing the colors according to the contrast suggestions, and to deactivate an extension that was messing up with the lighthouse report.
 
 <br>
 
@@ -347,7 +351,7 @@ No bugs were left unfixed.
 
 ## Notes
 
-I added the Contact Us page at the last minute. It looked as though the website was lacking a part where anyone or interested families could ask questions or give some feedback. I could have used the text area element but I want to demonstrate that I can use another way of creating forms like the Google form. It's easier to build and I already made more forms like this in the past. I want to showcase my knowledge in Excel too, since google form is linked into a google sheet to record all the users' responses. 
+I added the Contact Us page at the last minute. It looked as though the website was lacking a part where anyone or interested families could ask questions or give some feedback. I could have used the text area element but I want to demonstrate that I can use another way of creating forms like the Google form. It's easier to build and I already made more forms like this in the past. I want to showcase my knowledge in Excel too, since google form is linked into a google sheet to record all the users' responses. I use google sheets in my daily basis, especially at work.
 
 I couldn't style the home page just as I wanted, especially the "Benefits of cooking with kids" section. The positioning was messing with the contents a lot and solving the problem was consuming all the time I had in finishing the project. If I had more time maybe I could have come up with a better solution. But I’m happy with how it came out in the end.
  
@@ -377,7 +381,7 @@ I deployed this website to Github.
 
 ### Website link
 
-Here is a link to my project: [Kids first Online cooking class](https://anamelisago.github.io/kids-first-healthy-cooking/)
+Here is the link to my project: [Kids first Online cooking class](https://anamelisago.github.io/kids-first-healthy-cooking/)
 
 <br>
 
@@ -398,8 +402,10 @@ Here is a link to my project: [Kids first Online cooking class](https://anamelis
 <br>
 
 ## Accesibility
+I run the Lighthouse in the dev tools and this is the final result.
 
 <p align="center">
 
 ![Lighthouse Report](assets/images/lighthouse-report.png)
+
 </p>
