@@ -357,9 +357,25 @@ I'm happy with the outcome. But I'm open to comments and collaborations to impro
 
 # Final Result
 ## Deployment
-I deployed my project on Github.
-- add steps how to deploy on github
-- put the site url
+
+I deployed this website to Github.
+
+<br>
+
+### Steps to deploy a repository to Github
+
+1. Open the repository.
+2. Go to settings from the menu just under the repository name.
+3. On the left hand side of the settings, click Pages.
+4. In the source section, select from the dropdown menu the branch option "main".
+5. Save it by clicking the save button.
+6. Once it's done, Github provides a link to open the site in a browser.
+
+<br>
+
+### Website link
+
+Here is a link to my project: [Kids first Online cooking class](https://anamelisago.github.io/kids-first-healthy-cooking/)
 
 <br>
 
