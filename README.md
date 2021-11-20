@@ -32,7 +32,7 @@ When I talked to my mentor, he advised me it’s better to come up with an origi
 <br/>
 <br/>
 
-After giving it a lot of thought, finally I come up with the best one for my project. I found some books in my house that I purchased when my child was born. It’s a series of recipe books for 6-month-old babies up to 5-year-old toddlers. And that’s how I came up with the __Online cooking with kids__ website. I want to show and promote cooking healthy food with kids and to teach them the basics of cooking. It's easier to build. I also kept the website’s name "__KIDS *first*__" and I added the recipes from the recipe books and some tips too for the kids as an extra to make the webpage more dynamic and engaging. As an example, my child loves the handwashing video I put. Ever since we watch it, she always remembers the video every time she washes her hands. So I made a wireframe using Balsamiq to sketch some of my ideas and it served as a guide in shaping the website.
+After giving it a lot of thought, finally I come up with the best one for my project. I found some books in my house that I purchased when my child was born. It’s a series of recipe books for 6-month-old babies up to 5-year-old toddlers. And that’s how I came up with the __Online cooking with kids__ website. I want to show and promote cooking healthy food with kids and to teach them the basics of cooking. It's easier to build. I also kept the website’s name "__KIDS *first*__" and I added the recipes from the recipe books and some tips too for the kids as an extra content to make the webpage more dynamic and engaging. As an example, my child loves the handwashing video I put. Ever since we watch it, she always remembers the video every time she washes her hands. So I made a wireframe using Balsamiq to sketch some of my ideas and it served as a guide in shaping the website.
 <br>
 <p align="center">
 <img src="assets/images/kids-first-wireframe.png" alt="My webpage wireframe" width="400" height="300">
@@ -160,7 +160,7 @@ It's a page where parents or anyone can send any questions, comments or suggesti
 
 # Credits
 
-I want to thank all these people and all these sites and applications who helped me build a very exciting, fruitful website. 
+I want to thank all these people, sites and applications that helped me build a very exciting, fruitful website. 
 
 ## Media
 
