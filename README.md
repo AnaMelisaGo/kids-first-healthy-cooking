@@ -146,7 +146,7 @@ This page is where interested families can sign up for the online cooking classe
 <br>
 
 ## Footer
-The footer is where all the social media networks lie. When the mouse pointer is on top of the icon it changes to a light green color to match the color scheme of the page. I also added an icon to contact us. I added my name too, as the author and creator of the website.
+The footer is where all the social media networks lie. When the mouse pointer is on top of the icon it changes to a light green color to match the color scheme of the page. I also added an icon to contact us. I added my name too, as the creator of this website.
 
 <img src="assets/images/footer-buttons.png" alt="Kids first footer">
 
@@ -326,7 +326,7 @@ I deployed my website and tested it several times on different browsers I have o
 
 <br>
 
-All links work, they all open on another tab when clicked. The navigation bar, footer, and all the images are showing too. I also tested all the buttons if the url works and they all show the section of the webpage intended to.
+All links work, they all open on another tab when clicked. The navigation bar, footer, and all the images are showing too. I also tested all the buttons if the url works and they all show the section of the webpage intended to go to.
 
 <br>
 
@@ -345,7 +345,7 @@ No bugs were left unfixed.
 
 ## Notes
 
-I added the Contact Us page at the last minute. It looked as if the website was lacking a part where anyone or even interested families could ask questions or give some feedback. I could have used the text area element but I want to demonstrate that I can use another way of creating forms like the Google form. It's easier to build and I already made more forms like this in the past. I want to showcase my knowledge in Excel too, since google form is linked into a google sheet to record all the users' responses. 
+I added the Contact Us page at the last minute. It looked as though the website was lacking a part where anyone or interested families could ask questions or give some feedback. I could have used the text area element but I want to demonstrate that I can use another way of creating forms like the Google form. It's easier to build and I already made more forms like this in the past. I want to showcase my knowledge in Excel too, since google form is linked into a google sheet to record all the users' responses. 
 
 I couldn't style the home page just as I wanted, especially the "Benefits of cooking with kids" section. The positioning was messing with the contents a lot and solving the problem was consuming all the time I had in finishing the project. If I had more time maybe I could have come up with a better solution. But I’m happy with how it came out in the end.
  
