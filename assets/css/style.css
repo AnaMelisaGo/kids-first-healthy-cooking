@@ -616,15 +616,16 @@ footer {
     text-transform: uppercase;
 }
 
-.tips-area div h4 {
+.tips-area div h3 {
     font-size: 20px;
+    text-decoration: underline;
 }
 
 .tips-image~div {
     padding: 20px;
 }
 
-.tips-area div h3 {
+.tips-area div h4 {
     display: block;
     clear: both;
 }
@@ -673,23 +674,22 @@ footer {
 .daily-food li h5 {
     font-size: 20px;
     font-weight: 900;
-    text-decoration: underline;
 }
 
 .disorder-area {
     margin: 0 10px;
 }
 
-.disorder-area h4 {
-    text-decoration: underline;
-}
-
-.disorder-area ul li {
-    list-style-type: circle;
+.disorder-area > ul > li {
+    list-style-type: disc;
 }
 
 .disorder-area p span {
     font-weight: 900;
+}
+
+.disorder-area h4 ~ ul > li {
+    list-style-type: circle;
 }
 
 /* Sign up form */
