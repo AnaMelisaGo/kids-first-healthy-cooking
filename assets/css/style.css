@@ -80,23 +80,21 @@ br {
 }
 
 #hero-image {
-    background: url("../images/kids-healthy-cooking.jpg") no-repeat center center;
+    background: url("../images/kids-healthy-cooking.webp") no-repeat center center;
     width: 100%;
     height: 600px;
     background-size: cover;
-
+    /* From Love Running site */
     animation-name: image-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
 }
 
 @keyframes image-zoom {
-
-    /* Animation */
+    /* Animation from Love Running site*/
     from {
         transform: scale(1);
     }
-
     to {
         transform: scale(1.1);
     }
