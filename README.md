@@ -7,7 +7,7 @@ Created especially for the little ones in the house, and of course, for the whol
 
 ## Website link
 
-Here is the link: [Kids first Online cooking class](https://anamelisago.github.io/kids-first-healthy-cooking/)
+Here is the link: <a href="https://anamelisago.github.io/kids-first-healthy-cooking/" target="_blank"> Kids first online cooking class </a>
 
 <br>
 
@@ -389,3 +389,9 @@ During all these years of working with Google Drive and using Google Sheets, I g
 - Google translate: to translate some content from the recipe book that I have in my house to english.
 
 <br>
+
+## Technology
+
+- This project is written in HTML and CSS.
+- I used Gitpod as editor and for version control using git.
+- Hosted on Github.
