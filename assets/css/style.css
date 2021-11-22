@@ -673,10 +673,6 @@ footer {
     font-weight: 900;
 }
 
-.disorder-area {
-    margin: 0 10px;
-}
-
 .disorder-area > ul > li {
     list-style-type: disc;
 }
