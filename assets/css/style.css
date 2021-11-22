@@ -1008,6 +1008,10 @@ footer {
         width: 100%;
     }
 
+    .cooking-head {
+        font-size: 45px;
+    }
+
     .procedure ol {
         padding: 10px 10px 10px 20px;
     }
