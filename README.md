@@ -114,13 +114,11 @@ When any of these two buttons is clicked, it is highlighted with a light pink ba
 
 ### Recipes
 
-In this section, I put some cool recipes that can help families in making delicious and healthy meals for their kids. I added some healthy facts too about the main ingredient of the recipe. 
+In this section, I put some cool recipes that can help families in making delicious and healthy meals for their kids. I added some healthy facts too about the main ingredient of the recipe. I added a button to click for an easy access to the navigation bar. It's a light green button that says "Top".
 
 <p align="center">
 <img src="assets/images/screenshot-info-corner.png" alt="A photo of a bowl full of spinach with its healthy info">
 </p>
-
-I added a TOP button to click for an easy access to the navigation bar.
 
 <br>
 
