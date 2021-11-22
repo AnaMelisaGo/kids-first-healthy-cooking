@@ -911,10 +911,11 @@ footer {
 
     .topic-button {
         margin: 20px auto;
+        font-size: 20px;
     }
 
     #kids-corner {
-        height: 90vh;
+        height: 60vh;
     }
 
     .kids-flow {
