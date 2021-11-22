@@ -26,14 +26,14 @@ Cooking in our very own cozy little kitchen all together with our kids, helping 
 I had a lot of ideas for this project. And after giving it a lot of thought, finally I come up with the best one for my project. I found some books in my house that I purchased when my child was born. It’s a series of recipe books for 6-month-old babies up to 5-year-old toddlers. And that’s how I came up with the __Online cooking with kids__ website. I want to show and promote cooking healthy food with kids and to teach them the basics of cooking. It's easier to build. I also kept the website’s name "__KIDS *first*__" and I added the recipes from the recipe books and some tips too for the kids as an extra content to make the webpage more dynamic and engaging. As an example, my child loves the handwashing video I put. Ever since we watch it, she always remembers the video every time she washes her hands. So I made a wireframe using Balsamiq to sketch some of my ideas and it served as a guide in shaping the website.
 <br>
 <p align="center">
-<img src="assets/images/kids-first-wireframe.png" alt="My webpage wireframe" width="400" height="300">
+<img src="assets/images/screenshot-wireframe.png" alt="My webpage wireframe" width="400" height="300">
 </p>
 <br>
 <br>
 
 # Screenshots and Features
 
-<img src="assets/images/kids-first-responsive.png" alt="Kids first website on different devices">
+<img src="assets/images/screenshot-responsive.png" alt="Kids first website on different devices">
 
 <br>
 <br>
@@ -45,7 +45,7 @@ https://user-images.githubusercontent.com/86141994/141697283-388756d7-d2ac-40ee-
 <br>
 
 ### Navigation Bar
-<img src="assets/images/kids-first-header.png" alt="Kids first website navigation bar">
+<img src="assets/images/screenshot-header.png" alt="Kids first website navigation bar">
 
 <br>
 
@@ -82,7 +82,7 @@ I added an extra section on the home page where I listed some interesting topics
 
 <br>
 
-<img src="assets/images/hot-topics.png" alt="The hot topics section">
+<img src="assets/images/screenshot-hot-topics.png" alt="The hot topics section">
 
 <br>
 
@@ -90,7 +90,7 @@ I added an extra section on the home page where I listed some interesting topics
 
 Each class has a different time and a different meal so that all the recipes change each class. I made this part in small chunks for easy reading. I explained briefly how each class is organized.
 
-<img src="assets/images/online-class.png" alt="Class timetables and class organization">
+<img src="assets/images/screenshot-classes.png" alt="Class timetables and class organization">
 
 <br>
 
@@ -100,7 +100,7 @@ __K Corner__ stands for Kids first corner. This section is where I added the ext
 
 <br>
 
-<img src="assets/images/kids-corner.png" alt="The kids first corner page">
+<img src="assets/images/screenshot-kids-corner.png" alt="The kids first corner page">
 
 <br>
 
@@ -108,7 +108,7 @@ When any of these two buttons is clicked, it is highlighted with a light pink ba
 
 <br>
 
-<img src="assets/images/k-corner-active.png" alt="The K corner buttons when clicked">
+<img src="assets/images/screenshot-active.png" alt="The K corner buttons when clicked">
 
 <br>
 
@@ -117,40 +117,36 @@ When any of these two buttons is clicked, it is highlighted with a light pink ba
 In this section, I put some cool recipes that can help families in making delicious and healthy meals for their kids. I added some healthy facts too about the main ingredient of the recipe. 
 
 <p align="center">
-<img src="assets/images/info-corner.png" alt="A photo of a bowl full of spinach with its healthy info">
+<img src="assets/images/screenshot-info-corner.png" alt="A photo of a bowl full of spinach with its healthy info">
 </p>
+
+I added a TOP button to click for an easy access to the navigation bar.
 
 <br>
 
 ### Tips
 This section is all about guidelines for the whole family, centered mostly on children, for example the proper way of handwashing.
 
-<img src="assets/images/tips-video.png" alt="A youtube video about proper handwash">
+<img src="assets/images/screenshot-tips-video.png" alt="A youtube video about proper handwash">
 
 <br>
 
 ## Sign Up page
 This page is where interested families can sign up for the online cooking classes. The form is simple with a little touch of an attractive background to indicate the purpose. All data asked are required for identification and future communication. Families should select the day or days they want to participate to group them and organize the cooking sessions.
 
-<img src="assets/images/sign-up-page.png" alt="Sign up page">
+<img src="assets/images/screenshot-signup.png" alt="Sign up page">
 
 <br>
 
 ## Footer
 The footer is where all the social media networks lie. When the mouse pointer is on top of the icon it changes to a light green color to match the color scheme of the page. I also added an icon to contact us. I added my name too, as the creator of this website.
 
-<img src="assets/images/footer-icons.png" alt="Kids first footer">
+<img src="assets/images/screenshot-footer.png" alt="Kids first footer">
 
 <br>
 
 ### Contact Us
 It's a page where parents or anyone can send any questions, comments or suggestions. It helps in solving any doubts, or including any new content they suggest like a new recipe, new tips or anything about the website’s improvement.
-
-<br>
-<br>
-# Technology
-
-This project is written in HTML and CSS. It is hosted on Github.
 
 <br>
 
@@ -218,7 +214,7 @@ I run the Lighthouse in the dev tools and this is the final result.
 <br>
 
 <p align="center">
-<img src="assets/images/lighthouse-report.png" alt="The lighthouse report">
+<img src="assets/images/screenshot-lighthouse.png" alt="The lighthouse report">
 </p>
 
 <br>
@@ -259,6 +255,14 @@ I couldn't style the home page just as I wanted, especially the "Benefits of coo
 I created a separate file for testing my codes. I put the content and style it in that file, then I copy the code to the original project file. I don't know if it's a good or bad idea. At first, I thought it's the best way for me to practice coding and to test the code with dev tools without messing up the real project. But then it took me long hours before I complete a small section. So when I got used to Gitpod and into coding my ideas, I code and edit from the project file itself.
 
 I'm happy with the outcome. But I'm open to comments and collaborations to improve my project and also to help me grow more as a developer. We can sometimes fall, but we try to stand tall hand in hand.
+
+<br>
+
+## Technology
+
+- This project is written in HTML and CSS.
+- Gitpod is used as editor and for version control.
+- Hosted on Github.
 
 <br>
 
@@ -376,7 +380,7 @@ During all these years of working with Google Drive and using Google Sheets, I g
 
 - LogoMaker app: it's a phone app for free to create logos without a background.
 
-- Balsamiq Wireframes
+- Balsamiq Wireframes.
 
 - Google form: to build the "Contact Us" form.
 
@@ -388,10 +392,4 @@ During all these years of working with Google Drive and using Google Sheets, I g
 
 - Google translate: to translate some content from the recipe book that I have in my house to english.
 
-<br>
-
-## Technology
-
-- This project is written in HTML and CSS.
-- I used Gitpod as editor and for version control using git.
-- Hosted on Github.
+- <a href="https://www.online-convert.com/" target="_blank">Online Convert</a>: To convert images into webp format.
