@@ -412,14 +412,9 @@ footer {
     height: 100vh;
 }
 
-.cooking-head > span {
+#kids-corner h2 span {
     text-transform: initial;
     font-style: italic;
-}
-
-.cooking-head ~ p {
-    margin-left: 50px;
-    padding: 0 15px;
 }
 
 #kids-corner {
@@ -429,8 +424,12 @@ footer {
 }
 
 #kids-corner h2 {
+    font-size: 60px;
+    font-weight: 900;
+    color: #7E685A;
+    padding: 20px 10px;
+    text-transform: uppercase;
     text-align: center;
-    margin-left: 0;
 }
 
 .button-container {
@@ -915,7 +914,7 @@ footer {
     }
 
     #kids-corner {
-        height: 60vh;
+        height: 70vh;
     }
 
     .kids-flow {
@@ -1009,8 +1008,16 @@ footer {
         width: 100%;
     }
 
-    .cooking-head {
-        font-size: 45px;
+    #kids-corner {
+        height: 90vh;
+    }
+
+    #kids-corner h2 {
+        font-size: 40px;
+    }
+
+    .topic-button {
+        font-size: 20px;
     }
 
     .procedure ol {
