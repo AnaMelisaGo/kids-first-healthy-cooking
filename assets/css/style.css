@@ -13,8 +13,7 @@ body {
     font-size: 20px;
 }
 
-h1,
-h2 {
+h1, h2 {
     font-family: "Roboto Condensed", sans-serif;
 }
 
@@ -90,8 +89,8 @@ br {
     animation-fill-mode: forwards;
 }
 
+/* Animation style from Love Running site*/
 @keyframes image-zoom {
-    /* Animation from Love Running site*/
     from {
         transform: scale(1);
     }
@@ -182,7 +181,6 @@ br {
 #top-image {
     height: 240px;
     width: 210px;
-
 }
 
 #middle-image {
@@ -314,7 +312,6 @@ footer {
     text-align: center;
 }
 
-
 /* Contact Us */
 #contact-us {
     color: #7E685A;
@@ -389,7 +386,7 @@ footer {
     background-color: #C2B9B0;
 }
 
-#cooking-time~div {
+#cooking-time ~ div {
     width: 90%;
     margin: 20px auto;
     padding: 20px 0;
@@ -517,9 +514,7 @@ footer {
     padding: 20px;
 }
 
-.ingredients h3,
-.procedure h3,
-.ingredients>p {
+.ingredients h3, .procedure h3, .ingredients > p {
     text-align: center;
 }
 
@@ -553,7 +548,7 @@ footer {
     display: block;
 }
 
-.info-corner>details {
+.info-corner > details {
     margin: 5px 0 5px 75px;
     padding: 5px;
 }
@@ -618,7 +613,7 @@ footer {
     text-decoration: underline;
 }
 
-.tips-image~div {
+.tips-image ~ div {
     padding: 20px;
 }
 
@@ -660,6 +655,7 @@ footer {
     color: inherit;
 }
 
+/* From MDN */
 .daily-percentage li {
     list-style-type: "✅";
 }
