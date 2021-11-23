@@ -1,6 +1,6 @@
 <img src="assets/images/kids-first-logo.png" alt="Kids first logo" width="200" height="80">
 
-# Online Cooking Class
+# Kids *first* Online Cooking Class
 Created especially for the little ones in the house, and of course, for the whole family. It's healthy, free, fun, and friendly.
 
 <br/>
@@ -12,18 +12,18 @@ Here is the link: <a href="https://anamelisago.github.io/kids-first-healthy-cook
 <br>
 
 ## Introduction
-__KIDS *first*__ offer healthy online cooking classes aimed to teach basic cooking techniques to all kids and of course to the whole family as well.
+__KIDS *first*__ offers healthy online cooking classes aimed to teach basic cooking techniques to all kids and of course to the whole family as well.
 
 Cooking is an art. It's a daily house choir that can be learned by doing. Teaching the art of cooking from an early age with the help of these online cooking classes can promote creativity, a healthy and nutritious diet, cleanliness, self-confidence, and all other good benefits that cooking can bring to the whole family, especially to the kids in the house.
 
-Good family bonding can be achieved by implicating everyone to do something and finish them happily to create happy memories. But sometimes parents are so loaded with work and stuff that family bonding and sometimes family gathering is forgotten. So __KIDS *first*__ is designed online to unite everyone in the house without going outside. It’s also free of charge so parents don’t need to worry about monthly payments or maintenance. The only penny you need to spend is in buying good kitchen tools for the children’s safety and all the healthy ingredients of the recipes we send via email prior to the cooking classes.
+Good family bonding can be achieved by implicating everyone to do something and finish them happily to create happy memories. But sometimes parents are so loaded with work and stuff that family bonding and sometimes family gathering is forgotten. So __KIDS *first*__ is designed online to unite everyone in the house without stepping outside. It’s also free of charge so parents don’t need to worry about monthly payments or maintenance. The only penny you need to spend is in buying good kitchen tools for the children’s safety and all the healthy ingredients of the recipes we send via email prior to the cooking classes.
 
 Cooking in our very own cozy little kitchen all together with our kids, helping each other to finish a nice good meal, and also cooking and sharing tips with other families from their own kitchen is fun, beneficial, and healthy. It’s the best way to spend time with the family and to enjoy a nice healthy meal created by everyone.
 <br>
 
 ## Origin
 
-I had a lot of ideas for this project. And after giving it a lot of thought, finally I come up with the best one for my project. I found some books in my house that I purchased when my child was born. It’s a series of recipe books for 6-month-old babies up to 5-year-old toddlers. And that’s how I came up with the __Online cooking with kids__ website. I want to show and promote cooking healthy food with kids and to teach them the basics of cooking. It's easier to build. I also kept the website’s name "__KIDS *first*__" and I added the recipes from the recipe books and some tips too for the kids as an extra content to make the webpage more dynamic and engaging. As an example, my child loves the handwashing video I put. Ever since we watch it, she always remembers the video every time she washes her hands. So I made a wireframe using Balsamiq to sketch some of my ideas and it served as a guide in shaping the website.
+I had a lot of ideas for this project. And after giving it a lot of thought, finally I come up with the best one for my project. I found some books in my house that I purchased when my child was born. It’s a series of recipe books for 6-month-old babies up to 5-year-old toddlers. And that’s how I came up with the __Online cooking with kids__ website. I want to show and promote cooking healthy food with kids and to teach them the basics of cooking. It's easier to build. I also kept the website’s name "__KIDS *first*__" from a previous idea I had for this project. I even design a logo for it but I didn't use it. I added the recipes from the recipe books and some tips too for the kids as an extra content to make the webpage more dynamic and engaging. As an example, my child loves the handwashing video I put. Ever since we watch it, she always remembers the video every time she washes her hands. So I made a wireframe using Balsamiq to sketch some of my ideas and it served as a guide in shaping the website.
 <br>
 <p align="center">
 <img src="assets/images/screenshot-wireframe.png" alt="My webpage wireframe" width="400" height="300">
@@ -72,7 +72,7 @@ The current page on the screen is highlighted with a light green color on the na
 
 ### Benefit of Cooking with Kids
 
-In this section, I explain the benefits that cooking can bring to all kids. Cooking is not just making food. Cooking can teach the children the ability to read, to count, to write, can even boost their confidence, social skills, and to be organized, and most especially they learn to eat healthily, the advantage of a healthy diet and to be clean all the time.
+In this section, I explain the benefits that cooking can bring to all kids. Cooking is not just making food. Cooking can teach the children the ability to read, to count, to write, can even boost their confidence, social skills, and to be organized, and most especially they learn to eat healthily, they become aware of the good advantage of a healthy diet, to practice cleanlines at all time and to share and help each other's need.
 
 <br>
 
@@ -104,7 +104,7 @@ __K Corner__ stands for Kids first corner. This section is where I added the ext
 
 <br>
 
-When any of these two buttons is clicked, it is highlighted with a light pink background and a little bit of a shadow. And the other one changes the text color into gray to make it more obvious that it's not the one selected.
+When any of these two buttons is clicked, it goes to the page and the button is highlighted with a light pink background and a little bit of a shadow. And the other one changes the texts color and the border lines color into gray to make it more obvious that it's not the one selected.
 
 <br>
 
@@ -114,7 +114,7 @@ When any of these two buttons is clicked, it is highlighted with a light pink ba
 
 ### Recipes
 
-In this section, I put some cool recipes that can help families in making delicious and healthy meals for their kids. I added some healthy facts too about the main ingredient of the recipe. I added a button to click for an easy access to the navigation bar. It's a light green button that says "Top".
+In this section, I put some cool recipes that can help families in making delicious and healthy meals for their kids. I added some healthy facts too about the main ingredient of the recipe. I added a button to click for an easy access to the navigation bar. It's a light green button that says "Top" with an arrow pointing to the top.
 
 <p align="center">
 <img src="assets/images/screenshot-info-corner.png" alt="A photo of a bowl full of spinach with its healthy info">
@@ -174,7 +174,7 @@ I deployed this website to Github.
     - Mozilla Firefox
     - Safari
 
-- All links open on another tab when clicked. The navigation bar, footer, and all the images are showing well. I also tested all the buttons if the url works and they all show the section of the webpage intended to go to.
+- All external links open on another tab when clicked. The navigation bar, footer, and all the images are showing well. I also tested all the buttons if the url works and they all show the section of the webpage intended to go to.
 
 - The form for Signing up is tested. The inputs requires a certain value. The google form of Contact Us page of the website is working as well.
 
@@ -231,11 +231,11 @@ I run the Lighthouse in the dev tools and this is the final result.
 
 - I tried the sign up form in different devices and I found out that it overflows in small devices, especially when rotating the device. I fixed it by setting `overflow: scroll`.
 
-- When I run the HTML validator test I found out that button and anchor cannot be nested inside of each other. I had to change my layout and styles. I managed to bring it back as it were before. We learn from our mistakes.
+- When I run the HTML validator test I found out that button and anchor elements cannot be nested inside of each other. I had to change my layout and styles. I managed to bring it back as it were before. We learn from our mistakes.
 
-- When I tested the lighthouse for the first time, the accesibility score was so low. The report says that the foreground and contrast color doesn't match and a mismatch in aria. I managed to bring up the score by changing the colors according to the contrast suggestions, and to deactivate an extension that was messing up with the lighthouse report.
+- When I tested the lighthouse for the first time, the accesibility score was so low. The report says that the foreground and contrast color doesn't match and a mismatch in aria. I managed to bring up the score by changing the colors according to the color contrast suggestions from the dev tools, and I deactivated an extension that was messing up with the lighthouse report.
 
-- I fixed minor issues in the resolution of the images. I was able to tackle all of that I was aware of.
+- I fixed minor issues in the resolution of the images by changing the format of the image.
 
 <br>
 
@@ -246,15 +246,15 @@ No bugs were left unfixed.
 
 ## Notes and Future features
 
-I added the Contact Us page at the last minute. It looked as though the website was lacking a part where anyone or interested families could ask questions or give some feedback. I could have used the text area element but I want to demonstrate that I can use another way of creating forms like the Google form. It's easier to build and I already made more forms like this in the past. I want to showcase my knowledge in Excel too, since google form is linked into a google sheet to record all the users' responses. I use google sheets in my daily basis, especially at work.
+I added the Contact Us page at the last minute. The site looked as though it's lacking a part where anyone or interested families could ask questions or give some feedback. I could have used the text area element but I want to demonstrate that I can use another way of creating forms like the Google form. It's easier to build and I already made more forms like this in the past. I want to showcase my knowledge in Excel too, since google form is linked into a google sheet to record all the users' responses. I use google sheets in my daily basis, especially at work.
 
 I couldn't style the home page just as I wanted, especially the "Benefits of cooking with kids" section. The positioning was messing with the contents a lot and solving the problem was consuming all the time I had in finishing the project. If I had more time maybe I could have come up with a better solution. But I’m happy with how it came out in the end.
 
 I'm aware that I used a lot of code to style the header. I tried to change it but time was ticking fast. When I got more time and experience I will repair it to make it easier to code and read.
  
-I created a separate file for testing my codes. I put the content and style it in that file, then I copy the code to the original project file. I don't know if it's a good or bad idea. At first, I thought it's the best way for me to practice coding and to test the code with dev tools without messing up the real project. But then it took me long hours before I complete a small section. So when I got used to Gitpod and into coding my ideas, I code and edit from the project file itself.
+I created a separate file for testing my codes. I put the content and I style it in that file, then I copy the code to the original project file. I don't know if it's a good or bad idea. At first, I thought it's the best way for me to practice coding and to test the code with dev tools without messing up the real project. But then it took me long hours before I complete a small section. So when I got used to Gitpod and into coding my ideas, I code and edit from the project file itself.
 
-I'm happy with the outcome. But I'm open to comments and collaborations to improve my project and also to help me grow more as a developer. We can sometimes fall, but we try to stand tall hand in hand.
+I'm happy with the outcome. But I'm open to comments and collaborations to improve my project and also to help me grow more as a developer.
 
 <br>
 
@@ -340,7 +340,7 @@ I want to thank all these people, sites and applications that helped me build a 
 
     I used as a guide some of the codes I learned during the development of the Love Running website. I even used the url provided here for the action attribute of my project's sign up form.
 
-- [MDN WEB DOCS](https://developer.mozilla.org/en-US/)
+- [MDN WEB DOCS](https://developer.mozilla.org/en-US/?target="_blank")
 
 - [W3 SCHOOLS](https://www.w3schools.com/)
 
@@ -349,10 +349,8 @@ I want to thank all these people, sites and applications that helped me build a 
 <br>
 
 During all these years of working with Google Drive and using Google Sheets, I got used to searching everything on the internet. Here are the codes that helped me a lot in this project from other developers.
-
-- To crop image using CSS: By Alligator.io
-    
-    https://www.digitalocean.com/community/tutorials/css-cropping-images-object-fit
+ 
+- <a href="https://www.digitalocean.com/community/tutorials/css-cropping-images-object-fit" target="_blank">To crop image using CSS: By Alligator.io</a>
 
 - How to link a section of a page to another page using id 
 
